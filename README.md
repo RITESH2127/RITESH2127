@@ -8,7 +8,8 @@ Interests: ML applications, backend integration, databases
 
 💞️ Open to collaborating on ML, data-driven, and software projects
 📫 Email: riteshkumarnew369@gmail.com
-Linkdin: https://www.linkedin.com/in/ritesh-kumar-173154355?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+Linkdin:https://www.linkedin.com/in/ritesh-kumar-173154355?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 😄 Pronouns: He/Him
 
