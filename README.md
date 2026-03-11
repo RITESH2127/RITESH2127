@@ -1,52 +1,58 @@
-### Hi there, I'm Ritesh Kumar 👋
-
-**Machine Learning Engineer | Computer Science Student**
-
-I am an ambitious Machine Learning Engineer and 3rd-year Computer Science Engineering student with hands-on expertise in architecting, optimizing, and deploying end-to-end ML pipelines. I am passionate about transforming complex, real-world datasets into actionable insights and building interactive, data-driven applications. 
-
-* 🎓 Currently pursuing my B.Tech in Computer Science Engineering at Bharati Vidyapeeth's College of Engineering (BVCOE), Delhi.
-* 💻 Actively building full-stack AI applications and honing my skills in Data Structures & Algorithms (Java/C++) in preparation for upcoming placement opportunities.
-* 👯 Looking to collaborate on open-source AI/ML projects and hackathons.
-* 📫 How to reach me: **riteshkumarnew369@gmail.com**
+<div align="center">
+  <h1>Hi there, I'm Ritesh Kumar 👋</h1>
+  <h3>AI & Machine Learning Engineer | Computer Science Student</h3>
+  <p><em>Transforming complex data mathematics into high-performance, autonomous production systems.</em></p>
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 👨‍💻 About Me
 
-**Languages:** Python, Java, C/C++  
-**Machine Learning & AI:** Linear & Logistic Regression, Random Forest, Naive Bayes, Natural Language Processing (NLTK), EDA, Feature Engineering, Model Tuning & Cross-Validation  
-**Web & Databases:** Streamlit, Flask, HTML, CSS, SQL, MongoDB  
-**Tools & Version Control:** Git, GitHub  
+I am an ambitious 3rd-year Computer Science Engineering student at Bharati Vidyapeeth's College of Engineering (BVCOE), Delhi. I specialize in architecting, optimizing, and deploying end-to-end ML pipelines, with a strong focus on Deep Learning, NLP, Computer Vision, and scalable logic. 
 
----
-
-### 🚀 Featured Projects
-
-* **AI-Powered Document Assistant & Quiz Generator**
-    * *An intelligent tool designed to parse documents and automatically generate study quizzes.*
-* **EYELINK** *(Hackathon Project - Team Leader)*
-    * *Led a team to develop this innovative hackathon solution.*
-* **House Price Prediction System**
-    * *Developed an end-to-end regression pipeline with rigorous data cleaning and feature engineering. Trained Linear, Ridge, and Lasso models achieving peak R²>0.73, productionized via a Streamlit web app.*
-* **Customer Churn Prediction System**
-    * *Architected a classification-based ML framework utilizing Random Forest to predict customer attrition. Mitigated class imbalance to achieve 85%+ predictive accuracy.*
-* **Student Performance Analytics Platform**
-    * *Engineered a predictive analytics platform combining regression and classification algorithms to forecast academic trajectories and identify key performance indicators.*
+* 🎓 **Current Focus:** Building full-stack AI applications and mastering Data Structures & Algorithms.
+* 💼 **Looking for:** Opportunities to collaborate on open-source AI/ML projects, hackathons, and upcoming 2026 placement opportunities.
+* 📫 **Reach me at:** riteshkumarnew369@gmail.com
+* 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/ritesh-kumar-173154355)
 
 ---
 
-### 💼 Professional Experience & Leadership
+### 🛠️ Technical Arsenal
 
-* **Machine Learning Intern @ GAIL India Ltd.** (Jul 2025 - Aug 2025)
-    * Engineered a production-ready House Price Prediction engine.
-    * Architected robust data preprocessing pipelines and deployed the optimized ML workflow as an interactive Streamlit application.
-* **Administration Executive & Volunteer @ GDSC BVCOE** (Sep 2024 - Present)
-    * Orchestrated AI/ML and Web Development workshops and hackathons, boosting technical engagement within the campus community.
-* **Administration Executive @ Venuva BVP** (Sep 2024 - Apr 2025)
-    * Directed the planning and execution of 10+ large-scale technical events, scaling attendance to 500+ participants and sourcing corporate sponsorships.
+* **Languages:** Python, Java, C/C++
+* **Deep Learning & AI:** TensorFlow, PyTorch, Keras, Scikit-Learn, Neural Networks (CNNs), LLMs
+* **NLP & Vision:** NLTK, OpenCV
+* **Data Science:** Pandas, NumPy, SQL, Exploratory Data Analysis (EDA), Feature Engineering
+* **Web & Architecture:** Streamlit, Flask, React, HTML/CSS, MongoDB, DBMS
+* **Tools:** Git, GitHub, Linux/Terminal Environments
 
 ---
 
-### 🏆 Achievements
-* Winner of 3 college-level coding competitions.
-* Successfully delivered 10+ major college events with ~95% positive feedback.
+### 🚀 Featured Deployments
+
+* 🧠 **AI-Powered Document Assistant & Quiz Generator** *An enterprise-grade NLP agent engineered to digest complex documents, synthesize context, and autonomously generate intelligent assessments.*
+* 👁️ **Real-Time Emotion Recognition** *Advanced Computer Vision pipeline utilizing CNNs and OpenCV to detect and precisely classify facial emotions in real-time video streams.*
+* 📈 **House Price Prediction Ecosystem** *Robust regression pipeline (Linear/Ridge/Lasso) achieving peak R² > 0.73. Deployed as an interactive, low-latency web application using Streamlit.*
+* 👥 **Customer Churn AI Classifier** *Classification engine using Random Forest methodologies. Implemented heavy optimization techniques to counter severe class imbalance, achieving 85%+ predictive accuracy.*
+
+---
+
+### 🏆 Elite Recognitions & Certifications
+
+* **🥇 1st Prize Winner | Automation Day 2025 (BVEST-12):** Secured the absolute 1st position in the highly competitive "INNOVATE AND AUTOMATE" event hosted by ISA Delhi Section & BVCOE for an exceptional autonomous PLC project.
+* **🏅 Industrial Core Training:** Completed advanced industrial immersions focusing on Generative AI (DUCAT) and Network Architecture & Cisco Routing (Network Bulls).
+* **🏅 Certifications:** Machine Learning Skill Up (GeeksforGeeks).
+* **💻 Competitive Programming & Hackathons:** Competed in BVCOE Coders Cup (CP & DSA), LogicRush Hackathon (Unstop / ADGITM), Jam the Web (GFG), and the Code Debugging Challenge (Tech Shuttle Club).
+
+---
+
+### 💼 Experience & Leadership
+
+* **Machine Learning Intern @ GAIL India Ltd.** *(Jul 2025 - Aug 2025)* *Engineered a robust production-style House Price Prediction system, reducing RMSE by 10% and deploying via Streamlit.*
+* **Admin Executive & Volunteer @ GDSC BVCOE** *(Sep 2024 - Present)* *Spearheaded AI, ML, and Web Dev workshops, training 100+ students and architecting hackathon logistics to foster a strong developer community.*
+* **Event Executive @ Venuva BVP** *(Sep 2024 - Apr 2025)* *Directed a cross-functional team of 15+ members to flawlessly execute 10+ large-scale technical and cultural events (e.g., UXplore, Ethnic 3.0), securing corporate sponsorships exceeding ₹50,000.*
+
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RITESH2127&color=00f0ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
