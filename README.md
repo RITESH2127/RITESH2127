@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I am an ambitious 3rd-year Computer Science Engineering student at Bharati Vidyapeeth's College of Engineering (BVCOE), Delhi. I specialize in architecting, optimizing, and deploying end-to-end ML pipelines, with a strong focus on Deep Learning, NLP, Computer Vision, and scalable logic. 
+I am an ambitious Computer Science Engineering student at Bharati Vidyapeeth's College of Engineering (BVCOE), Delhi. I specialize in architecting, optimizing, and deploying end-to-end ML pipelines, with a strong focus on Deep Learning, NLP, Computer Vision, and scalable logic. 
 
 * 🎓 **Current Focus:** Building full-stack AI applications and mastering Data Structures & Algorithms.
 * 💼 **Looking for:** Opportunities to collaborate on open-source AI/ML projects, hackathons, and upcoming 2026 placement opportunities.
