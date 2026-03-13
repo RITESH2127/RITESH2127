@@ -49,7 +49,7 @@ I am an ambitious Computer Science Engineering student at Bharati Vidyapeeth's C
 ### 💼 Experience & Leadership
 
 * **Machine Learning Intern @ GAIL India Ltd.** *(Jul 2025 - Aug 2025)* *Engineered a robust production-style House Price Prediction system, reducing RMSE by 10% and deploying via Streamlit.*
-* **Admin Executive & Volunteer @ GDSC BVCOE** *(Sep 2024 - Present)* *Spearheaded AI, ML, and Web Dev workshops, training 100+ students and architecting hackathon logistics to foster a strong developer community.*
+* **Admin Executive & Volunteer @ DSC BVCOE** *(Sep 2024 - Present)* *Spearheaded AI, ML, and Web Dev workshops, training 100+ students and architecting hackathon logistics to foster a strong developer community.*
 * **Event Executive @ Venuva BVP** *(Sep 2024 - Apr 2025)* *Directed a cross-functional team of 15+ members to flawlessly execute 10+ large-scale technical and cultural events (e.g., UXplore, Ethnic 3.0), securing corporate sponsorships exceeding ₹50,000.*
 
 <br>
