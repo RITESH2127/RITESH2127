@@ -22,7 +22,7 @@
 
 ## 🌐 The Executive Summary
 
-I am a 3rd-year Computer Science Engineering student at BVCOE, Delhi, operating at the intersection of heavy-duty software engineering and advanced machine learning. My expertise lies in designing end-to-end ML pipelines, deep learning architectures, and scalable web solutions that solve real-world complexities.
+I am a Computer Science Engineering student at BVCOE, Delhi, operating at the intersection of heavy-duty software engineering and advanced machine learning. My expertise lies in designing end-to-end ML pipelines, deep learning architectures, and scalable web solutions that solve real-world complexities.
 
 > **Status:** Actively seeking 2026 Software Engineering & Machine Learning placement opportunities.
 
