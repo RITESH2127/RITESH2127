@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I am a driven 3rd-year Computer Science Engineering student at Bharati Vidyapeeth's College of Engineering (BVCOE), Delhi. I specialize in architecting, optimizing, and deploying end-to-end ML pipelines, with a deep-rooted focus on Deep Learning, NLP, Computer Vision, and highly scalable system logic. 
+I am a driven Computer Science Engineering student at Bharati Vidyapeeth's College of Engineering (BVCOE), Delhi. I specialize in architecting, optimizing, and deploying end-to-end ML pipelines, with a deep-rooted focus on Deep Learning, NLP, Computer Vision, and highly scalable system logic. 
 
 - 🔭 **Currently Building:** Leading team EDGE RUNNERS to develop *The Venture Capital 'Scout' Agent* and working on *EyeLink - Bridging Hearts, Paving Ways*. 
 - 🎯 **Current Focus:** Engineering full-stack AI applications, mastering advanced Data Structures & Algorithms, and actively preparing for upcoming placement interviews.
@@ -45,7 +45,6 @@ I am a driven 3rd-year Computer Science Engineering student at Bharati Vidyapeet
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 *(+ Streamlit, HTML/CSS, DBMS)*
 
 ---
@@ -57,8 +56,6 @@ I am a driven 3rd-year Computer Science Engineering student at Bharati Vidyapeet
 > **👁️ Real-Time Emotion Recognition** > *Advanced Computer Vision pipeline utilizing CNNs and OpenCV to detect and precisely classify facial emotions in real-time video streams.*
 
 > **📈 House Price Prediction Ecosystem** > *Robust regression pipeline (Linear/Ridge/Lasso) achieving peak R² > 0.73. Deployed as an interactive, low-latency web application using Streamlit.*
-
-> **👥 Customer Churn AI Classifier** > *Classification engine using Random Forest methodologies. Implemented heavy optimization techniques to counter severe class imbalance, achieving 85%+ predictive accuracy.*
 
 ---
 
