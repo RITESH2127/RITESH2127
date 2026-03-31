@@ -84,13 +84,6 @@ I am a Computer Science Engineering student at BVCOE, Delhi, operating at the in
     </td>
   </tr>
   <tr>
-    <td>👁️</td>
-    <td>
-      <strong>Real-Time Emotion Recognition</strong><br/>
-      <em>Advanced Computer Vision pipeline utilizing CNNs and OpenCV to detect, track, and precisely classify facial micro-expressions in live video streams.</em>
-    </td>
-  </tr>
-  <tr>
     <td>📈</td>
     <td>
       <strong>House Price Prediction Ecosystem</strong><br/>
