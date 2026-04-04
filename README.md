@@ -31,7 +31,7 @@ I am a Computer Science Engineering student at BVCOE, Delhi, operating at the in
     <td width="50%">
       <h3>🔭 Current Missions</h3>
       <ul>
-        <li>Part of team <strong>EDGE RUNNERS</strong> on <em>The Venture Capital 'Scout' Agent</em>.</li>
+        <li>Part of team <strong>EDGE RUNNERS</strong> on <em></em>.</li>
         <li>Architecting <em>EyeLink - Bridging Hearts, Paving Ways</em>.</li>
       </ul>
     </td>
