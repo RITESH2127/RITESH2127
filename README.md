@@ -1,118 +1,332 @@
 <div align="center">
-<h1>Ritesh Kumar</h1>
-<h3>Architecting Intelligence. Engineering Scalability.</h3>
-<p><em>Translating complex data mathematics into high-performance, autonomous AI production systems.</em></p>
-<p align="center">
-<a href="mailto:riteshkumarnew369@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/ritesh-kumar-173154355">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/RITESH2127">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-</p>
+
+# Ritesh Kumar
+
+**Computer Science Engineer · ML Systems · Scalable Web**
+
+[![Email](https://img.shields.io/badge/Email-riteshkumarnew369%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:riteshkumarnew369@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritesh%20Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-kumar-173154355)
+[![GitHub](https://img.shields.io/badge/GitHub-RITESH2127-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RITESH2127)
+[![Profile Views](https://komarev.com/ghpvc/?username=RITESH2127&color=0077B5&style=flat-square&label=Profile+Views)](https://github.com/RITESH2127)
+
 </div>
-Welcome to my digital workspace. I am a Computer Science Engineering student at BVCOE, Delhi, operating at the intersection of heavy-duty software engineering and advanced machine learning. I believe the best software doesn't just process data; it understands it. My primary focus is on designing end-to-end ML pipelines, deep learning architectures, and scalable web solutions that tackle real-world complexities head-on.
-Currently, I am actively seeking Software Engineering and Machine Learning placement opportunities for 2026.
-> **System Alert: Interactive Protocol Initiated**
-> While you scroll through my profile, you might notice that my primary server has locked down a hidden file. I've left three encrypted terminal nodes across this page. Click to expand them as you read to assemble the system override key.
-> 
-## The Executive Summary
-I split my time between theoretical research and practical application. I don't just want to know how an algorithm works; I want to see it deployed, optimized, and handling real user traffic.
-<table>
-<tr>
-<td width="50%">
-<h3>Current Missions</h3>
-<ul>
-<li>Developing with team <strong>EDGE RUNNERS</strong> on ongoing hackathon initiatives.</li>
-<li>Architecting <em>EyeLink - Bridging Hearts, Paving Ways</em>, an accessible tech solution.</li>
-</ul>
-</td>
-<td width="50%">
-<h3>Cognitive Focus</h3>
-<ul>
-<li>Mastering advanced Data Structures & Algorithms for optimal system performance.</li>
-<li>Deep-diving into <strong>Advanced Statistical Modeling</strong> to refine predictive accuracy.</li>
-</ul>
-</td>
-</tr>
-</table>
+
+---
+
+I'm a Computer Science Engineering student at BVCOE, Delhi, working at the intersection of machine learning and software engineering. My focus is on building end-to-end ML pipelines, deep learning architectures, and scalable web systems that solve real problems — not just in notebooks, but in production.
+
+Currently seeking **Software Engineering and Machine Learning placement opportunities for 2026**.
+
+---
+
+## What I'm Working On
+
+| Area | Details |
+|---|---|
+| **Team Project** | Building with **EDGE RUNNERS** on ongoing hackathon initiatives |
+| **Accessibility Tech** | Architecting *EyeLink — Bridging Hearts, Paving Ways* |
+| **Algorithms** | Deepening expertise in advanced Data Structures & Algorithms |
+| **Research** | Advanced Statistical Modeling for improved predictive accuracy |
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23003B57?style=flat-square&logo=postgresql&logoColor=white)
+
+**ML / Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Web & Infrastructure**
+
+![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-%23000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Selected Projects
+
+### AI-Powered Document Assistant & Quiz Generator
+An NLP agent designed to ingest complex documents, synthesize context using Large Language Models, and automatically generate intelligent assessments. Built as an enterprise-grade pipeline from ingestion to evaluation.
+
+### House Price Prediction Ecosystem
+A full regression pipeline using Linear, Ridge, and Lasso techniques — achieving a peak R² score of **0.73+**. Deployed as an interactive, low-latency web application via Streamlit.
+
+---
+
+## Experience
+
+**Machine Learning Intern · GAIL India Ltd.**
+`Jul 2025 – Aug 2025`
+
+Built a production-style House Price Prediction system. Overhauled data preprocessing modules, reducing RMSE by **10%**, and deployed the final model to a Streamlit interface for internal testing.
+
+---
+
+**Admin Executive & Volunteer · DSC BVCOE**
+`Sep 2024 – Present`
+
+Led AI, ML, and Web Development workshops that directly trained **100+ students**. Organized hackathon logistics to build a competitive developer community on campus.
+
+---
+
+**Event Executive · Venuva BVP**
+`Sep 2024 – Apr 2025`
+
+Directed a cross-functional team of 15 to execute large-scale events including *UXplore* and *Ethnic 3.0*. Negotiated and secured corporate sponsorships exceeding **₹50,000**.
+
+---
+
+## Achievements
+
+- 🥇 **1st Place — Automation Day 2025 (BVEST-12):** Won the *Innovate and Automate* event hosted by ISA Delhi Section & BVCOE with an autonomous PLC project.
+- 🏁 **15+ Hackathons, Ideathons & Techathons:** Consistent participant across high-pressure competitive builds.
+- 📜 **Certifications:** Machine Learning Skill Up — GeeksforGeeks; Generative AI — DUCAT; Network Architecture & Cisco Routing — Network Bulls.
+
+---
+
+## 🎮 Take a Break — Play a Round
+
+*A short distraction built right into this README. If you're viewing this on GitHub, open the raw HTML block below in any browser.*
+
 <details>
-<summary><b>[Terminal Node 01: Encrypted] Click to unlock</b></summary>
-<blockquote>
-<p><i>Decryption successful.</i></p>
-<p><strong>Memory Fragment 1:</strong> <code>while (coffee > 0) {</code></p>
-<p><i>Keep scrolling to find the next node.</i></p>
-</blockquote>
-</details>
-## The Engineering Arsenal
-A craftsman is only as good as their tools. Here are the languages, frameworks, and libraries I use daily to turn concepts into reality.
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/SQL-%23003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<summary><b>▶ Click to play: Code Catcher</b></summary>
 
+<br>
 
+> **Instructions:** Use `←` `→` arrow keys (or `A` `D`) to move the bucket. Catch the falling code snippets. Miss three and it's game over. Press **Start** to begin.
 
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-<img src="https://img.shields.io/badge/OpenCV-%23white?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Code Catcher</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #0d1117;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Courier New', monospace;
+    color: #c9d1d9;
+  }
+  h2 { color: #58a6ff; margin-bottom: 8px; font-size: 1.4rem; letter-spacing: 2px; }
+  #scoreboard {
+    display: flex; gap: 30px; margin-bottom: 10px; font-size: 0.9rem; color: #8b949e;
+  }
+  #scoreboard span { color: #e6edf3; font-weight: bold; }
+  canvas {
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    background: #161b22;
+    display: block;
+  }
+  #msg {
+    margin-top: 12px;
+    font-size: 0.85rem;
+    color: #8b949e;
+    height: 20px;
+  }
+  button {
+    margin-top: 12px;
+    padding: 8px 28px;
+    background: #238636;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  button:hover { background: #2ea043; }
+</style>
+</head>
+<body>
 
-
-
-<img src="https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Flask-%23000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<h2>CODE CATCHER</h2>
+<div id="scoreboard">
+  Score: <span id="scoreVal">0</span> &nbsp;|&nbsp; Lives: <span id="livesVal">3</span>
 </div>
-<details>
-<summary><b>[Terminal Node 02: Encrypted] Click to unlock</b></summary>
-<blockquote>
-<p><i>Bypassing firewall... successful.</i></p>
-<p><strong>Memory Fragment 2:</strong> <code>keepBuilding();</code></p>
-<p><i>One node remaining.</i></p>
-</blockquote>
+
+<canvas id="c" width="420" height="340"></canvas>
+<div id="msg">Press Start to play!</div>
+<button id="btn" onclick="startGame()">Start</button>
+
+<script>
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+const W = canvas.width, H = canvas.height;
+
+const TOKENS = ['if()', 'for()', 'def ', 'int ', '{}', '[]', '=>', '#!/', 'pip', 'git'];
+const COLORS = ['#79c0ff','#ffa657','#7ee787','#d2a8ff','#56d364','#f78166'];
+
+let score, lives, tokens, bucket, speed, raf, running;
+
+function init() {
+  score = 0; lives = 3; tokens = []; speed = 2; running = false;
+  bucket = { x: W / 2 - 36, y: H - 32, w: 72, h: 18 };
+  document.getElementById('scoreVal').textContent = 0;
+  document.getElementById('livesVal').textContent = 3;
+  document.getElementById('msg').textContent = '';
+  drawStatic();
+}
+
+function drawStatic() {
+  ctx.clearRect(0, 0, W, H);
+  drawBucket();
+}
+
+function drawBucket() {
+  ctx.fillStyle = '#58a6ff';
+  ctx.beginPath();
+  ctx.roundRect(bucket.x, bucket.y, bucket.w, bucket.h, 4);
+  ctx.fill();
+  ctx.fillStyle = '#0d1117';
+  ctx.font = 'bold 11px Courier New';
+  ctx.textAlign = 'center';
+  ctx.fillText('[ ]', bucket.x + bucket.w / 2, bucket.y + 13);
+}
+
+function spawnToken() {
+  const txt = TOKENS[Math.floor(Math.random() * TOKENS.length)];
+  const color = COLORS[Math.floor(Math.random() * COLORS.length)];
+  tokens.push({
+    x: 16 + Math.random() * (W - 60),
+    y: -20,
+    txt,
+    color,
+    speed: speed + Math.random() * 1.5
+  });
+}
+
+let frameCount = 0;
+function loop() {
+  if (!running) return;
+  raf = requestAnimationFrame(loop);
+  frameCount++;
+
+  ctx.clearRect(0, 0, W, H);
+
+  // spawn
+  if (frameCount % Math.max(30, 70 - score) === 0) spawnToken();
+
+  // move & draw tokens
+  for (let i = tokens.length - 1; i >= 0; i--) {
+    const t = tokens[i];
+    t.y += t.speed;
+
+    ctx.font = 'bold 13px Courier New';
+    ctx.fillStyle = t.color;
+    ctx.textAlign = 'left';
+    ctx.fillText(t.txt, t.x, t.y);
+
+    const tw = ctx.measureText(t.txt).width;
+
+    // catch
+    if (
+      t.y + 4 >= bucket.y &&
+      t.y - 14 <= bucket.y + bucket.h &&
+      t.x + tw >= bucket.x &&
+      t.x <= bucket.x + bucket.w
+    ) {
+      tokens.splice(i, 1);
+      score++;
+      if (score % 5 === 0) speed = Math.min(speed + 0.3, 6);
+      document.getElementById('scoreVal').textContent = score;
+      continue;
+    }
+
+    // missed
+    if (t.y > H + 10) {
+      tokens.splice(i, 1);
+      lives--;
+      document.getElementById('livesVal').textContent = lives;
+      if (lives <= 0) { gameOver(); return; }
+    }
+  }
+
+  drawBucket();
+}
+
+function gameOver() {
+  running = false;
+  cancelAnimationFrame(raf);
+  ctx.fillStyle = 'rgba(13,17,23,0.75)';
+  ctx.fillRect(0, 0, W, H);
+  ctx.fillStyle = '#f78166';
+  ctx.font = 'bold 26px Courier New';
+  ctx.textAlign = 'center';
+  ctx.fillText('GAME OVER', W / 2, H / 2 - 16);
+  ctx.fillStyle = '#c9d1d9';
+  ctx.font = '15px Courier New';
+  ctx.fillText('Score: ' + score, W / 2, H / 2 + 14);
+  document.getElementById('msg').textContent = 'Not bad. Try to beat your score!';
+  document.getElementById('btn').textContent = 'Play Again';
+}
+
+function startGame() {
+  cancelAnimationFrame(raf);
+  init();
+  running = true;
+  document.getElementById('btn').textContent = 'Restart';
+  document.getElementById('msg').textContent = '← → or A D to move';
+  loop();
+}
+
+// controls
+const keys = {};
+document.addEventListener('keydown', e => {
+  if (e.key === 'ArrowLeft'  || e.key === 'a') keys.left  = true;
+  if (e.key === 'ArrowRight' || e.key === 'd') keys.right = true;
+  e.preventDefault();
+});
+document.addEventListener('keyup', e => {
+  if (e.key === 'ArrowLeft'  || e.key === 'a') keys.left  = false;
+  if (e.key === 'ArrowRight' || e.key === 'd') keys.right = false;
+});
+
+function moveBucket() {
+  if (keys.left)  bucket.x = Math.max(0, bucket.x - 5);
+  if (keys.right) bucket.x = Math.min(W - bucket.w, bucket.x + 5);
+  if (running) requestAnimationFrame(moveBucket);
+}
+requestAnimationFrame(moveBucket);
+
+init();
+</script>
+</body>
+</html>
+```
+
+> Save the block above as `game.html` and open it in any browser to play.
+
 </details>
-## Production Showcase
-Code that drives impact. Here is a curated selection of my core architectural deployments, built to solve tangible problems.
- * **AI-Powered Document Assistant & Quiz Generator:** An enterprise-grade NLP agent engineered to digest complex documents, synthesize context via Large Language Models, and autonomously generate intelligent assessments.
- * **House Price Prediction Ecosystem:** A robust regression pipeline utilizing Linear, Ridge, and Lasso techniques, achieving a peak R-squared score of over 0.73. This system is fully deployed as an interactive, low-latency web application using Streamlit.
-## Leadership & Industry Impact
-Beyond writing algorithms, I believe in building ecosystems—whether that means improving a corporate codebase or fostering a thriving developer community on campus.
-**Machine Learning Intern | GAIL India Ltd.** *Jul 2025 - Aug 2025*
-> Engineered a robust production-style House Price Prediction system. Overhauled data preprocessing modules to successfully reduce Root Mean Square Error (RMSE) by 10%, deploying the final model to a highly accessible Streamlit interface for internal testing.
-> 
-**Admin Executive & Volunteer | DSC BVCOE** *Sep 2024 - Present*
-> Spearheaded technical capacity building through AI, ML, and Web Development workshops, directly training over 100 students. Architected hackathon logistics to foster a highly engaged, competitive developer community on our campus.
-> 
-**Event Executive | Venuva BVP** *Sep 2024 - Apr 2025*
-> Directed a cross-functional team of 15 members to flawlessly execute multiple large-scale technical and cultural events (including UXplore & Ethnic 3.0). Successfully negotiated and secured corporate sponsorships exceeding ₹50,000.
-> 
-## Elite Recognitions & The Hackathon Mentality
-I thrive under pressure. Whether it's a tight deadline, an impossible bug, or a 48-hour coding sprint, I enjoy the process of constantly building, rapidly shipping, and pushing the boundaries of innovation.
- * **Absolute 1st Position | Automation Day 2025 (BVEST-12):** Conquered the highly competitive "INNOVATE AND AUTOMATE" event hosted by ISA Delhi Section & BVCOE with an exceptional autonomous PLC project.
- * **Hackathon Veteran:** Participated in over 15 Hackathons, Ideathons, and Techathons, refining my ability to architect solutions in high-stakes environments.
- * **Advanced Industrial Core Training:** Completed rigorous technical immersions in Generative AI (DUCAT) and Network Architecture & Cisco Routing (Network Bulls).
- * **Certifications:** Verified Machine Learning Skill Up certification from GeeksforGeeks.
-<details>
-<summary><b>[Terminal Node 03: Encrypted] Click to unlock</b></summary>
-<blockquote>
-<p><i>Final firewall breached.</i></p>
-<p><strong>Memory Fragment 3:</strong> <code>}</code></p>
-<p><i>Assembly complete.</i></p>
-</blockquote>
-</details>
+
+---
+
 <div align="center">
-### System Override Complete
-If you found all three fragments (while (coffee > 0) { keepBuilding(); }), you've successfully unlocked the hidden logic block of this README. We already speak the same language. Let's connect and build something incredible together.
 
+*Open to collaborations, interesting problems, and great conversations.*
+**[riteshkumarnew369@gmail.com](mailto:riteshkumarnew369@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ritesh-kumar-173154355) · [GitHub](https://github.com/RITESH2127)**
 
-<img src="https://komarev.com/ghpvc/?username=RITESH2127&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
