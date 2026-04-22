@@ -1,152 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=120&section=header" width="100%" alt="Header Wave"/>
 
-# Ritesh Kumar
+Ritesh Kumar
 
-**CS Engineering · Machine Learning · Scalable Systems**
+CS Engineering · Machine Learning · Scalable Systems
 
-*Building things that run in production, not just notebooks.*
-
-[![Email](https://img.shields.io/badge/Email-riteshkumarnew369%40gmail.com-c9d1d9?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22)](mailto:riteshkumarnew369@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-c9d1d9?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/ritesh-kumar-173154355)
-[![GitHub](https://img.shields.io/badge/GitHub-RITESH2127-c9d1d9?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/RITESH2127)
-[![Profile Views](https://komarev.com/ghpvc/?username=RITESH2127&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/RITESH2127)
+Building things that run in production, not just notebooks.
 
 </div>
 
----
+👨‍💻 About Me
 
-I'm a Computer Science Engineering student at **BVCOE, Delhi**, focused on the space where rigorous ML theory meets production software. I care about systems that don't just perform well on benchmarks — they handle real traffic, real edge cases, and real users.
+I am a Computer Science Engineering student at BVCOE, Delhi, focused on the intersection of rigorous Machine Learning theory and robust software engineering. I care about systems that do more than perform well on static benchmarks—they need to handle real traffic, edge cases, and actual users.
 
-Currently seeking **Software Engineering and Machine Learning placements for 2026**.
+Currently seeking Software Engineering and Machine Learning placement opportunities for 2026.
 
----
+Current Focus: Deepening my expertise in Advanced Data Structures & Algorithms and Statistical Modeling to improve predictive accuracy and system efficiency.
 
-## At a Glance
-
-```text
-🎓  CSE @ BVCOE, Delhi
-🔬  Focus: ML Pipelines · Deep Learning · Scalable Web Systems
-🏆  1st Place — Automation Day 2025 (BVEST-12)
-🛠️  15+ Hackathons participated
-🤝  100+ students trained via DSC BVCOE workshops
-📍  New Delhi, India
-```
-
----
-
-## What I'm Building
-
-| Project | Description |
-|---|---|
-| **EyeLink** | *Bridging Hearts, Paving Ways* — an accessible tech solution for the visually impaired |
-| **Edge Runners** | Active hackathon team, ongoing competitive builds |
-
-Currently deepening expertise in **Advanced Data Structures & Algorithms** and **Statistical Modeling** for improved ML predictive accuracy.
-
----
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=00599C)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-
-**Machine Learning & Data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=TensorFlow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=PyTorch&logoColor=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4DABCF)
-
-**Web & Infrastructure**
-
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=4ea94b)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05033)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=FF4B4B)
-
----
-
-## Projects
-
-### AI-Powered Document Assistant & Quiz Generator
-An enterprise-grade NLP agent that ingests complex documents, synthesizes context via LLMs, and autonomously generates structured assessments. Built end-to-end from document parsing through evaluation output.
-
-**Stack:** Python · LLMs · NLP Pipeline · Document Parsing
-
----
-
-### House Price Prediction Ecosystem
-A complete regression pipeline using **Linear, Ridge, and Lasso** techniques with a peak **R² score of 0.73+**. Deployed as a low-latency interactive web app via Streamlit — not just a model, but a usable product.
-
-**Stack:** Python · scikit-learn · Streamlit · Pandas · NumPy
-
----
-
-## Experience
-
-**Machine Learning Intern — GAIL India Ltd.**
-`Jul 2025 – Aug 2025`
-
-Engineered a production-style House Price Prediction system. Overhauled data preprocessing modules, reducing RMSE by **10%**, and deployed the final model to a Streamlit interface for internal use.
-
----
-
-**Admin Executive & Volunteer — DSC BVCOE**
-`Sep 2024 – Present`
-
-Led AI, ML, and Web Development workshops, directly training **100+ students**. Designed and managed hackathon logistics to cultivate a competitive developer community on campus.
-
----
-
-**Event Executive — Venuva BVP**
-`Sep 2024 – Apr 2025`
-
-Directed a cross-functional team of 15 across large-scale technical and cultural events (*UXplore*, *Ethnic 3.0*). Negotiated and secured corporate sponsorships exceeding **₹50,000**.
-
----
-
-## Achievements & Certifications
-
-- 🥇 **1st Place — Automation Day 2025 (BVEST-12)** · ISA Delhi Section & BVCOE · Autonomous PLC project
-- 🏁 **15+ Hackathons, Ideathons & Techathons** competed
-- 📜 **Machine Learning Skill Up** — GeeksforGeeks
-- 🎓 **Generative AI** intensive — DUCAT
-- 🌐 **Network Architecture & Cisco Routing** — Network Bulls
-
----
-
-## — A Little Break —
-
-*You made it this far. Here's something that runs entirely inside this README — no clicks, no browser, no dependencies. A pure SVG animation.*
-
-> **Code Rain** — every symbol falling is something I've actually typed. Animated right here, on the page.
+🛠️ Technical Arsenal
 
 <div align="center">
 
-<!-- SAVE THIS AS game.svg IN YOUR PROFILE REPO ROOT -->
-<!-- Then this img tag will display it animated on GitHub -->
+Core Languages
 
-![Code Rain](./game.svg)
+
+
+Machine Learning & Data
+
+
+
+Web & Infrastructure
+
+
 
 </div>
 
-> 💡 **Setup:** Save the SVG code below as `game.svg` in the root of your GitHub profile repository (same repo as this README). The animation above will render live on your profile.
+🚀 Featured Projects
+
+AI-Powered Document Assistant & Quiz Generator
+
+An end-to-end NLP agent designed to ingest complex documents, synthesize context via LLMs, and autonomously generate structured assessments.
+
+Stack: Python · LLMs · NLP Pipeline · Document Parsing
+
+House Price Prediction Ecosystem
+
+A complete regression pipeline utilizing Linear, Ridge, and Lasso techniques, achieving a peak R² score of 0.73+. Deployed as a low-latency interactive web application—transforming a static model into a usable product.
+
+Stack: Python · scikit-learn · Streamlit · Pandas · NumPy
+
+Currently Building: EyeLink
+
+Bridging Hearts, Paving Ways. An accessible technology solution currently in development, aimed at assisting the visually impaired. Built in collaboration with my active hackathon team, Edge Runners.
+
+💼 Experience
+
+Machine Learning Intern | GAIL India Ltd. Jul 2025 – Aug 2025
+
+Engineered a production-style House Price Prediction system.
+
+Overhauled data preprocessing modules, successfully reducing RMSE by 10%.
+
+Deployed the final predictive model to a Streamlit interface for internal stakeholder use.
+
+Admin Executive & Volunteer | DSC BVCOE Sep 2024 – Present
+
+Led hands-on AI, ML, and Web Development workshops, directly training 100+ students.
+
+Designed and managed hackathon logistics to cultivate a competitive developer community on campus.
+
+Event Executive | Venuva BVP Sep 2024 – Apr 2025
+
+Directed a cross-functional team of 15 across large-scale technical and cultural events (UXplore, Ethnic 3.0).
+
+Negotiated and secured corporate sponsorships exceeding ₹50,000.
+
+🏆 Achievements & Certifications
+
+🥇 1st Place — Automation Day 2025 (BVEST-12), ISA Delhi Section & BVCOE (Autonomous PLC project)
+
+🏁 Competitor — Actively participated in 15+ Hackathons, Ideathons, and Techathons
+
+📜 Certification — Machine Learning Skill Up (GeeksforGeeks)
+
+🎓 Certification — Generative AI Intensive (DUCAT)
+
+🌐 Certification — Network Architecture & Cisco Routing (Network Bulls)
+
+🎨 A Little Break
+
+You made it this far. Here's something that runs entirely inside this README—no clicks, no browser, no dependencies. A pure SVG animation.
+
+Code Rain: Every symbol falling is something I've actually typed. Animated right here, on the page.
+
+<div align="center">
+
+<!-- 💡 SETUP INSTRUCTIONS:
+Save the SVG code from the dropdown below as game.svg in the root of your GitHub profile repository.
+The image tag below will render it live on your profile. -->
+
+</div>
 
 <details>
-<summary><b>📄 game.svg — expand to copy</b></summary>
+<summary><b>📄 View & Copy game.svg code</b></summary>
 
-```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" width="480" height="200">
+<svg xmlns="[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)" viewBox="0 0 480 200" width="480" height="200">
   <defs>
     <style>
       .bg { fill: #0d1117; }
@@ -294,18 +253,14 @@ Directed a cross-functional team of 15 across large-scale technical and cultural
   <rect x="283" y="187" width="7" height="10" rx="1" class="crs"/>
   <text x="472" y="196" text-anchor="end" font-family="Courier New,monospace" font-size="9" fill="#21262d">[ open to 2026 ]</text>
 </svg>
-```
+
 
 </details>
 
----
-
 <div align="center">
 
-*Open to great problems, strong collaborations, and interesting codebases.*
+Open to great problems, strong collaborations, and interesting codebases.
 
-[![Say Hello](https://img.shields.io/badge/Say%20Hello-riteshkumarnew369%40gmail.com-58a6ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:riteshkumarnew369@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=80&section=footer" width="100%" alt="Footer Wave"/>
 
 </div>
