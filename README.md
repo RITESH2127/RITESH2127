@@ -179,13 +179,6 @@ A real-time, crowdsourced accessibility mapping platform designed to help people
 
 ## 🎮 **Interactive Code Rain Game**
 
-> **You made it this far! Here's something special running entirely inside this README — no clicks, no browser dependencies. A pure SVG animation showcasing my tech stack.**
-
-> 💡 **Animated Visual**: Code symbols falling down your screen representing every technology I've used. Save as `game.svg` in your profile repo to display live!
-
-<div align="center">
-
-```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" width="480" height="200">
   <defs>
     <style>
