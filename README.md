@@ -1,179 +1,155 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=140&section=header&text=Ritesh%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:EC4899&height=180&section=header&text=Ritesh%20Kumar&fontSize=64&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
 
-# 🚀 **Full-Stack Developer & ML Engineer**
+# ✨ Full-Stack Developer • ML Engineer • Builder
 
-### **Transforming Ideas into Intelligent Solutions**
+### *Engineering products that are useful, intelligent, and built to scale.*
 
-*Building production-ready applications that bridge the gap between cutting-edge ML and real-world impact.*
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RITESH2127)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-kumar-173154355)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshkumarnew369@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-28a745?style=for-the-badge)](https://github.com/RITESH2127)
+<p>
+  <a href="https://github.com/RITESH2127"><img src="https://img.shields.io/badge/GitHub-RITESH2127-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ritesh-kumar-173154355"><img src="https://img.shields.io/badge/LinkedIn-Ritesh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:riteshkumarnew369@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open%20To-2026%20Opportunities-22C55E?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## 📋 **Quick Overview**
+## 👋 About Me
 
-I'm a **Computer Science Engineering student at BVCOE, Delhi**, passionate about creating **production-grade machine learning systems** and **scalable web applications**. My work spans across:
+I’m a **Computer Science Engineering student (BVCOE, Delhi)** focused on building:
 
-- 🤖 **Machine Learning**: NLP, Predictive Analytics, Agentic AI
-- 💻 **Full-Stack Development**: Backend systems, interactive frontends, real-time applications
-- ♿ **Social Impact**: Accessibility-first technology solutions
-- 🏆 **Competitive Edge**: 15+ hackathons, 1st place finishes, real-world ML deployments
+- 🤖 **Machine Learning systems** that move from notebook to production.
+- 🌐 **Full-stack applications** with clean architecture and strong UX.
+- ♿ **Impact-first technology** that improves accessibility and everyday lives.
 
-**Actively seeking** Software Engineering and Machine Learning placements for **2026**.
+I enjoy solving hard product problems at the intersection of **AI + software engineering + real users**.
 
 ---
 
-## 🌟 **Featured Projects**
+## 🧠 Core Strengths
 
-<div align="center">
+- **ML Engineering:** NLP, predictive modeling, model evaluation, deployment workflows  
+- **Backend Development:** APIs, modular service design, scalable architecture  
+- **Frontend Development:** interactive, responsive, and user-first interfaces  
+- **Product Mindset:** performance, reliability, and practical real-world value  
 
-### **Curated Selection of High-Impact, Production-Ready Solutions**
+---
+
+## 🚀 Featured Projects
+
+### 1) AI-Powered Document Assistant & Quiz Generator
+**Repo:** [Document-Assistant-Quiz-Gen](https://github.com/RITESH2127/Document-Assistant-Quiz-Gen)
+
+A Retrieval-Augmented Generation (RAG) system that ingests documents, answers context-aware questions, and auto-generates high-quality quizzes.
+
+**Highlights**
+- Multi-format ingestion: PDF, DOCX, TXT
+- RAG pipeline with embeddings + vector search
+- Context-grounded Q&A with strong answer relevance
+- Configurable quiz generation for learning workflows
+- Streamlit-based interactive interface
+
+**Stack:** Python • LangChain • FAISS • Gemini • Streamlit
+
+---
+
+### 2) House Price Prediction Ecosystem
+**Repo:** [HOUSE-PRICE-PREDICTION-TOOL](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL)
+
+A complete ML pipeline built during internship experience, comparing linear and ensemble models and deployed with a practical prediction interface.
+
+**Highlights**
+- End-to-end preprocessing + feature engineering pipeline
+- Model benchmarking (Linear, Ridge, Lasso, Random Forest)
+- Strong regression performance (**R² ~ 0.89** with Random Forest)
+- Streamlit deployment for real-time prediction
+
+**Stack:** Python • Scikit-learn • Pandas • NumPy • Streamlit
+
+---
+
+### 3) Customer Churn Prediction System
+**Repo:** [Customer-Churn-Prediction-System](https://github.com/RITESH2127/Customer-Churn-Prediction-System)
+
+A production-style churn analysis solution that predicts churn probability and supports retention strategy decisions.
+
+**Highlights**
+- Full ML lifecycle: prep → train → evaluate → deploy
+- Multi-model comparison and feature importance analysis
+- FastAPI backend for low-latency predictions
+- Modern frontend experience for business users
+
+**Stack:** Python • FastAPI • Scikit-learn • HTML • CSS • JavaScript
+
+---
+
+### 4) EYE-LINK: Wheelchair Accessibility Map
+**Repo:** [EYE-LINK-PROJECT](https://github.com/RITESH2127/EYE-LINK-PROJECT)
+
+A social-impact platform for discovering and contributing wheelchair-accessible locations using real-time, crowdsourced mapping.
+
+**Highlights**
+- Live map + geolocation-driven discovery
+- OpenStreetMap-powered accessibility intelligence
+- Community contributions for continuous data improvement
+- Mobile-first, inclusive UI design
+
+**Stack:** React • Next.js • Leaflet • Tailwind CSS • OpenStreetMap
+
+---
+
+## 🛠️ Tech Toolbox
+
+<div align="left">
+
+**Languages & Core**  
+Python • JavaScript • SQL • HTML • CSS
+
+**Machine Learning**  
+Scikit-learn • Pandas • NumPy • Matplotlib • NLP workflows
+
+**Web Development**  
+FastAPI • React • Next.js • Streamlit • REST APIs
+
+**Tools & Workflow**  
+Git • GitHub • VS Code • Modular architecture • Deployment-oriented development
 
 </div>
 
-### 1️⃣ **🧠 AI-Powered Document Assistant & Quiz Generator**
+---
 
-**[📂 Repository](https://github.com/RITESH2127/Document-Assistant-Quiz-Gen) • [🔗 Live Demo](#)**
+## 🏆 Snapshot
 
-#### 📌 **What It Does**
-An enterprise-grade NLP system that intelligently processes complex documents, synthesizes context using RAG (Retrieval-Augmented Generation), and autonomously generates structured assessments. Perfect for educators, training platforms, and knowledge management systems.
-
-#### ✨ **Key Features**
-- 📄 **Multi-Format Processing**: PDF, Word (.docx), and text files seamlessly
-- 🎯 **Advanced RAG Architecture**: LangChain + FAISS + Google Gemini embeddings
-- 💬 **Contextual Q&A**: Ask specific questions, get accurate document-backed answers
-- 📝 **Dynamic Quiz Generation**: Customizable difficulty levels and question counts
-- 🎨 **Interactive Streamlit UI**: Real-time processing and beautiful visualizations
-- 🔐 **Production-Ready**: Error handling, streaming responses, state management
-
-#### 💡 **Real-World Impact**
-- **Use Case**: Corporate training, educational platforms, compliance documentation
-- **Performance**: Processes 100+ page documents in seconds
-- **Accuracy**: Context-aware answers with document citations
-
-#### 🛠️ **Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3144?style=flat-square&logo=chainlink&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-013243?style=flat-square&logo=facebook&logoColor=white)
-![PyPDF2](https://img.shields.io/badge/PyPDF2-000000?style=flat-square)
+- Participated in **15+ hackathons**
+- Built projects spanning **ML, full-stack, and social impact tech**
+- Focused on creating solutions that are both **technically strong** and **user-valuable**
 
 ---
 
-### 2️⃣ **📊 House Price Prediction Ecosystem**
+## 🎯 Current Goal
 
-**[📂 Repository](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL) • [🎯 Deployment Ready](#)**
+I’m actively preparing for **Software Engineering / ML Engineering opportunities (2026)** and looking to collaborate on projects involving:
 
-#### 📌 **What It Does**
-A complete regression pipeline built during an ML internship at GAIL India. Leverages linear models (Linear, Ridge, Lasso) and tree-based ensembles to predict house prices with exceptional accuracy. Deployed as an interactive Streamlit web application.
-
-#### ✨ **Key Features**
-- 📈 **Comprehensive ML Pipeline**: Data preprocessing, feature engineering, model selection
-- 🎯 **Multi-Model Comparison**: Linear Regression, Ridge, Lasso, Random Forest
-- 📊 **Peak Performance**: R² score of **0.89+** with Random Forest
-- 🚀 **RMSE Optimization**: Reduced error by **10%** through preprocessing overhaul
-- 🌐 **Streamlit Interface**: Real-time predictions with interactive feature inputs
-- 📉 **Advanced Preprocessing**: Power transformation, standardization, pipeline architecture
-
-#### 💡 **Real-World Impact**
-- **Deployment**: GAIL India internal tools
-- **Performance Metrics**: R² = 0.8921, RMSE = 7.91 (RandomForest)
-- **Use Case**: Real estate valuation, investment analysis, market prediction
-
-#### 📊 **Results Summary**
-
-| Model | Baseline R² | Best R² | RMSE |
-|-------|-------------|---------|------|
-| Linear Regression | 0.67 | 0.73 | 19.69 |
-| Ridge | 0.67 | 0.73 | 19.71 |
-| Lasso | 0.65 | 0.72 | 20.48 |
-| **Random Forest** | **0.89** | **0.89** | **7.91** |
-
-#### 🛠️ **Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+- Applied AI products
+- Intelligent automation
+- Scalable backend systems
+- Accessibility-focused innovation
 
 ---
 
-### 3️⃣ **🎯 Customer Churn Prediction System**
+## 🤝 Let’s Connect
 
-**[📂 Repository](https://github.com/RITESH2127/Customer-Churn-Prediction-System) • [🔗 Live Demo](#)**
+If you’re building something meaningful in AI, software, or impact tech — I’d love to connect.
 
-#### 📌 **What It Does**
-An end-to-end machine learning system that predicts customer churn probability for telecom companies. Combines a sophisticated ML backend with a modern, glassmorphic frontend UI for business actionability.
+- GitHub: **[RITESH2127](https://github.com/RITESH2127)**
+- LinkedIn: **[Ritesh Kumar](https://www.linkedin.com/in/ritesh-kumar-173154355)**
+- Email: **[riteshkumarnew369@gmail.com](mailto:riteshkumarnew369@gmail.com)**
 
-#### ✨ **Key Features**
-- 🔍 **Complete ML Pipeline**: Data preparation → Training → Model selection → Deployment
-- 🤖 **Multiple Model Comparison**: Logistic Regression, Random Forest, Gradient Boosting
-- 📊 **Feature Importance Visualization**: Understand what drives churn predictions
-- ⚡ **FastAPI Backend**: High-performance REST API with real-time predictions
-- 🎨 **Modern Frontend**: Glassmorphism UI, responsive design, real-time feedback
-- 📈 **Probability Scoring**: Actionable churn risk scores for retention strategies
-- 🧹 **Production Pipeline**: Clean, modular, scalable architecture
+<div align="center">
 
-#### 💡 **Real-World Impact**
-- **Business Value**: Retention optimization for subscription services
-- **Decision Support**: Identify high-risk customers for targeted interventions
-- **Use Case**: Telecom, SaaS platforms, streaming services, financial institutions
+### ⭐ If you like my work, feel free to star the repositories and follow for updates.
 
-#### 🛠️ **Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-### 4️⃣ **♿ EYE-LINK: Wheelchair Accessibility Map**
-
-**[📂 Repository](https://github.com/RITESH2127/EYE-LINK-PROJECT) • [🌍 Social Impact](#)**
-
-#### 📌 **What It Does**
-A real-time, crowdsourced accessibility mapping platform designed to help people with disabilities identify wheelchair-accessible locations. Integrates OpenStreetMap data with modern web technologies to create a more inclusive society.
-
-#### ✨ **Key Features**
-- 📍 **Real-Time Geolocation**: Auto-centers map on user's location
-- 🗺️ **OpenStreetMap Integration**: Live accessibility data (ramps, elevators, accessible toilets)
-- 📌 **Custom Map Markers**: Font Awesome icons for clear accessibility designation
-- 💬 **Interactive Info Panels**: Detailed accessibility information at a glance
-- 👥 **Crowdsourced Contributions**: Users can add missing accessible points
-- 📱 **Mobile Responsive**: Seamless experience across all devices
-- 🎨 **Modern UI**: Clean, intuitive design with Tailwind CSS
-
-#### 💡 **Real-World Impact**
-- **Social Responsibility**: Empowering people with disabilities
-- **Community**: Crowdsourced accessibility data from users
-- **Scalability**: Leverages OpenStreetMap ecosystem
-- **Use Case**: Urban accessibility, travel planning, disability advocacy
-
-#### 🛠️ **Tech Stack**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-335533?style=flat-square&logo=openstreetmap&logoColor=white)
-
----
-
+</div>
