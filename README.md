@@ -138,8 +138,7 @@ I’m actively preparing for **Software Engineering / ML Engineering opportuniti
 - Scalable backend systems
 - Accessibility-focused innovation
 
-### ⭐ Thank you for visiting my profile!
-*If you like my work, consider following and starring the repositories.*
+---
 
 ## 🤝 Let’s Connect
 
