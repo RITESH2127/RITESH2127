@@ -119,7 +119,7 @@ Highlights:
 
 Stack: `Python` `scikit-learn` `pandas` `numpy` `Streamlit` `Explainable-AI`
 
-> Note: Please provide the exact repository URL for the ADHD project if you want the link updated — I used a placeholder name (ADHD-Project).
+
 
 ---
 
