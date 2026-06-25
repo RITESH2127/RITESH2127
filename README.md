@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,35:8B5CF6,70:F43F5E,100:F59E0B&text=Ritesh%20Kumar&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Ritesh Kumar banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,35:8B5CF6,70:F43F5E,100:F59E0B&text=Ritesh%20Kumar&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 
 # 🚀 Full-Stack Developer • ML Engineer • Product Builder
 
@@ -91,64 +91,52 @@ I enjoy turning ideas into clean, reliable products that solve real problems for
 
 ## 🚀 Featured Projects
 
-### 1) AI-Powered Document Assistant & Quiz Generator
-🔗 **Repository:** [Document-Assistant-Quiz-Gen](https://github.com/RITESH2127/Document-Assistant-Quiz-Gen)
+Below are a few highlighted projects. I removed the Customer Churn and EYE-LINK entries and added a dedicated ADHD project card while retaining and enhancing the House Price Prediction entry.
+
+### • Document Assistant & Quiz Generator
+🔗 Repository: [Document-Assistant-Quiz-Gen](https://github.com/RITESH2127/Document-Assistant-Quiz-Gen)
 
 A Retrieval-Augmented Generation (RAG) application that processes documents, answers context-aware questions, and generates quizzes automatically.
 
-**Highlights:**
+Highlights:
 - PDF / DOCX / TXT ingestion
 - Embeddings + vector search pipeline
-- Context-grounded Q&A
-- Configurable quiz generation
-- Streamlit interface
+- Context-grounded Q&A and quiz generation
+- Streamlit interface for quick demos
 
-**Stack:** `Python` `LangChain` `FAISS` `Gemini` `Streamlit`
+Stack: `Python` `LangChain` `FAISS` `Gemini` `Streamlit`
 
 ---
 
-### 2) House Price Prediction Ecosystem
-🔗 **Repository:** [HOUSE-PRICE-PREDICTION-TOOL](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL)
+### • House Price Prediction Ecosystem
+🔗 Repository: [HOUSE-PRICE-PREDICTION-TOOL](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL)
 
 An end-to-end ML system with data preparation, benchmarking, and an interactive deployment for real-time inference.
 
-**Highlights:**
+Highlights:
 - Preprocessing + feature engineering
 - Model comparison: Linear, Ridge, Lasso, Random Forest
-- Strong regression quality (**R² ≈ 0.89** with Random Forest)
-- Streamlit deployment
+- Strong regression quality (R² ≈ 0.89 with Random Forest)
+- Streamlit deployment with input form and visualizations
 
-**Stack:** `Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
-
----
-
-### 3) Customer Churn Prediction System
-🔗 **Repository:** [Customer-Churn-Prediction-System](https://github.com/RITESH2127/Customer-Churn-Prediction-System)
-
-A production-style churn analytics platform that predicts churn risk and supports better retention decision-making.
-
-**Highlights:**
-- Full ML lifecycle (prep → train → evaluate → deploy)
-- Multi-model comparison + feature insights
-- FastAPI backend for low-latency predictions
-- Business-friendly frontend experience
-
-**Stack:** `Python` `FastAPI` `Scikit-learn` `HTML` `CSS` `JavaScript`
+Stack: `Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
 
 ---
 
-### 4) EYE-LINK: Wheelchair Accessibility Map
-🔗 **Repository:** [EYE-LINK-PROJECT](https://github.com/RITESH2127/EYE-LINK-PROJECT)
+### • ADHD Detection & Analysis (New)
+🔗 Repository: [ADHD-Project] (replace with actual repo URL)
 
-A social-impact mapping platform for discovering and contributing wheelchair-accessible locations.
+An experimental ML pipeline and analysis toolkit for ADHD-related behavioral/sensor data. Includes data cleaning, feature extraction, model training, and a small demo UI for visualization and basic inference.
 
-**Highlights:**
-- Real-time map + geolocation discovery
-- OpenStreetMap integration
-- Crowdsourced data contributions
-- Mobile-first inclusive UI
+Highlights:
+- Data preprocessing and signal/feature extraction
+- Model experiments using classical ML and lightweight neural models
+- Explainability artifacts (feature importance, SHAP summaries)
+- Demo UI (Streamlit) for visualization and inference
 
-**Stack:** `React` `Next.js` `Leaflet` `Tailwind CSS` `OpenStreetMap`
+Stack: `Python` `scikit-learn` `pandas` `numpy` `Streamlit` `Explainable-AI`
+
+> Note: Please provide the exact repository URL for the ADHD project if you want the link updated — I used a placeholder name (ADHD-Project).
 
 ---
 
