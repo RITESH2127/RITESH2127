@@ -91,23 +91,6 @@ I enjoy turning ideas into clean, reliable products that solve real problems for
 
 ## 🚀 Featured Projects
 
-Below are a few highlighted projects. I removed the Customer Churn and EYE-LINK entries and added a dedicated ADHD project card while retaining and enhancing the House Price Prediction entry.
-
-### • Document Assistant & Quiz Generator
-🔗 Repository: [Document-Assistant-Quiz-Gen](https://github.com/RITESH2127/Document-Assistant-Quiz-Gen)
-
-A Retrieval-Augmented Generation (RAG) application that processes documents, answers context-aware questions, and generates quizzes automatically.
-
-Highlights:
-- PDF / DOCX / TXT ingestion
-- Embeddings + vector search pipeline
-- Context-grounded Q&A and quiz generation
-- Streamlit interface for quick demos
-
-Stack: `Python` `LangChain` `FAISS` `Gemini` `Streamlit`
-
----
-
 ### • House Price Prediction Ecosystem
 🔗 Repository: [HOUSE-PRICE-PREDICTION-TOOL](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL)
 
@@ -123,8 +106,8 @@ Stack: `Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
 
 ---
 
-### • ADHD Detection & Analysis (New)
-🔗 Repository: [ADHD-Project] (replace with actual repo URL)
+### • ADHD Detection & Analysis 
+🔗 Repository: [ADHD-Project] (https://github.com/RITESH2127/ADHD-DETECTION-MINI-PROJECT-)
 
 An experimental ML pipeline and analysis toolkit for ADHD-related behavioral/sensor data. Includes data cleaning, feature extraction, model training, and a small demo UI for visualization and basic inference.
 
