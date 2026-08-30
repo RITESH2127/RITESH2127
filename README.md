@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full-Stack+AI+Developer;Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full-Stack+AI+Developer">
 
   **B.Tech CSE (AI/ML) @ Bharati Vidyapeeth College of Engineering**
 
@@ -55,19 +55,19 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🧠 ADHD Detection System</h4>
-      <p>An AI diagnostic system leveraging deep learning (ResNet) to analyze multimodal neural signals (EEG and fMRI). Integrated <strong>Explainable AI (XAI)</strong> frameworks like Grad-CAM and LIME for transparent, clinically interpretable visualizations.</p>
+      <p>An AI diagnostic system leveraging deep learning (ResNet) to analyze multimodal neural signals (EEG and fMRI). Integrated <strong>Explainable AI (XAI)</strong> frameworks like Grad-CAM and LIME for diagnostic transparency.</p>
       <p><b>Stack:</b> Python, ResNet, Grad-CAM, LIME, Flask</p>
     </td>
     <td width="50%" valign="top">
       <h4>🎬 NLP Movie Recommendation Engine</h4>
-      <p>Content-based NLP recommendation engine utilizing TF-IDF vectorization and Cosine Similarity to process metadata. Features a real-time Streamlit interface integrated with the TMDB API to fetch dynamic movie posters.</p>
+      <p>Content-based NLP recommendation engine utilizing TF-IDF vectorization and Cosine Similarity to process metadata. Features a real-time Streamlit interface integrated with the TMDB API to fetch dynamic movie data.</p>
       <p><b>Stack:</b> Python, NLP, TF-IDF, Streamlit, TMDB API</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>📊 Customer Churn Prediction</h4>
-      <p>Classification-based ML framework predicting customer attrition with <strong>85%+ accuracy</strong>. Mitigated severe class imbalance using SMOTE and deployed a FastAPI backend connected to dynamic Chart.js visualization dashboards.</p>
+      <p>Classification-based ML framework predicting customer attrition with <strong>85%+ accuracy</strong>. Mitigated severe class imbalance using SMOTE and deployed a FastAPI backend connected to dynamic dashboards.</p>
       <p><b>Stack:</b> Python, Random Forest, SMOTE, FastAPI</p>
     </td>
     <td width="50%" valign="top">
@@ -92,4 +92,12 @@
     <source media="(prefers-color-scheme: light)" srcset="game.svg">
     <img alt="GitHub Contribution Snake Animation" src="game.svg">
   </picture>
+</div>
+
+---
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/RITESH2127/RITESH2127/blob/output/github-contribution-grid-snake.svg)
+
 </div>
