@@ -1,192 +1,233 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,35:8B5CF6,70:F43F5E,100:F59E0B&text=Ritesh%20Kumar&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ritesh%20Kumar&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="header"/>
 
-# 🚀 Full-Stack Developer • ML Engineer • Product Builder
+## 🚀 Full-Stack Engineer • ML Systems Builder • Tech Leader
 
-### *Designing intelligent, scalable, and human-centered digital products.*
+*Building intelligent, scalable, and accessible digital products that solve real problems.*
 
 <p>
-  <a href="https://github.com/RITESH2127"><img src="https://img.shields.io/badge/GitHub-RITESH2127-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/ritesh-kumar-173154355"><img src="https://img.shields.io/badge/LinkedIn-Ritesh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:riteshkumarnew369@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/RITESH2127" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-RITESH2127-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ritesh-kumar-173154355" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ritesh%20Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:riteshkumarnew369@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Open%20to-2026%20SWE%20%26%20ML%20Roles-22C55E?style=flat-square" alt="Open to roles"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%202026%20Roles-22C55E?style=flat-square" alt="Status"/>
   <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Product%20Engineering-7C3AED?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Built%20With-Python%20%7C%20JS%20%7C%20FastAPI%20%7C%20React-0EA5E9?style=flat-square" alt="Built with"/>
+  <img src="https://img.shields.io/badge/Experience-Full%20Stack%20%2B%20ML-0EA5E9?style=flat-square" alt="Experience"/>
 </p>
 
 </div>
 
 ---
 
-## ✨ Welcome
+## 💡 About
 
-Hi, I’m **Ritesh** — a Computer Science Engineering student at **BVCOE, Delhi**, passionate about building practical systems at the intersection of:
+I'm a **Computer Science Engineering (AI/ML)** student at **BVCOE, Delhi**, with hands-on experience building **machine learning systems**, **scalable backends**, and **product-focused applications**. 
 
-- 🤖 **Machine Learning Engineering**
-- 🌐 **Full-Stack Product Development**
-- ♿ **Accessibility-Driven Innovation**
+My work spans:
+- 🤖 **ML Engineering** — from experimentation to production deployment
+- 🌐 **Full-Stack Development** — clean backends with intuitive frontends  
+- 🏆 **Technical Leadership** — mentoring, hackathons, and community building
+- ♿ **Accessibility-First Design** — building inclusive digital experiences
 
-I enjoy turning ideas into clean, reliable products that solve real problems for real users.
-
----
-
-## 🧩 Quick Navigation
-
-| Section | What you'll find |
-|---|---|
-| [📌 About](#-about) | My profile and engineering philosophy |
-| [🛠️ Tech Stack](#️-tech-stack) | Tools, frameworks, and capabilities |
-| [🚀 Featured Projects](#-featured-projects) | High-impact projects with links |
-| [🐍 Live Snake Game](#-live-auto-playing-game-snake) | Auto-playing animated game rendered directly in README |
-| [🎯 Current Goals](#-current-goals) | What I’m working toward in 2026 |
-| [🤝 Connect](#-lets-connect) | Contact and collaboration links |
+**Philosophy:** Great engineering is intentional, measurable, and human-centered.
 
 ---
 
-## 📌 About
-
-- 🎓 **CSE Student @ BVCOE, Delhi**
-- 🧠 Builds **ML systems from experimentation to deployment**
-- ⚙️ Develops **modular backends + responsive frontends**
-- 🌍 Interested in **impactful and inclusive software products**
-
-> "Great software is not just functional — it is understandable, useful, and resilient."
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
 <table>
-  <tr>
-    <td><b>Category</b></td>
-    <td><b>Technologies</b></td>
-  </tr>
-  <tr>
-    <td>Languages</td>
-    <td>Python • JavaScript • SQL • HTML • CSS</td>
-  </tr>
-  <tr>
-    <td>ML & Data</td>
-    <td>Scikit-learn • Pandas • NumPy • Matplotlib • NLP Workflows</td>
-  </tr>
-  <tr>
-    <td>Backend</td>
-    <td>FastAPI • REST APIs • Service Architecture</td>
-  </tr>
-  <tr>
-    <td>Frontend</td>
-    <td>React • Next.js • Streamlit • Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td>Dev Tools</td>
-    <td>Git • GitHub • VS Code • Deployment-oriented Workflow</td>
-  </tr>
+<tr>
+  <td align="center" width="25%">
+    <strong>Languages</strong><br/>
+    Python • JavaScript • SQL<br/>
+    HTML • CSS • Java
+  </td>
+  <td align="center" width="25%">
+    <strong>AI / ML</strong><br/>
+    Scikit-learn • TensorFlow<br/>
+    ResNet • GANs • LSTMs
+  </td>
+  <td align="center" width="25%">
+    <strong>Backend</strong><br/>
+    FastAPI • Flask • REST<br/>
+    Service Architecture
+  </td>
+  <td align="center" width="25%">
+    <strong>Frontend & Tools</strong><br/>
+    React • Next.js • Streamlit<br/>
+    Tailwind CSS • Git • GitHub
+  </td>
+</tr>
 </table>
+
+---
+
+## 🏅 Experience & Impact
+
+### 🔧 ML Engineering Intern — Agile AI, GAIL India  
+**Jul 2025 – Aug 2025**
+- Built **real-time machine learning workflows** for industrial optimization
+- Achieved **R² ≈ 0.73** with ridge regression; reduced RMSE by **10%** via hyperparameter tuning
+- Deployed production-grade Streamlit application for interactive predictions
+- Integrated machine learning pipeline into company operations, improving efficiency
+
+### 👥 Community Leadership
+- **Hackathon Achievements:** 1st place @ ISA Delhi Automation Day; 4th place @ Agentic AI (IEEE)
+- **Technical Training:** Mentored **100+ students** in ML/AI fundamentals
+- **DSC BVCOE:** Core team member managing technical workshops and developer relations
+- **Google Developers Students Club:** Organized hands-on ML training sessions
 
 ---
 
 ## 🚀 Featured Projects
 
-### • House Price Prediction Ecosystem
-🔗 Repository: [HOUSE-PRICE-PREDICTION-TOOL](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL)
+### 🏠 House Price Prediction Ecosystem
+[Repository](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL)
 
-An end-to-end ML system with data preparation, benchmarking, and an interactive deployment for real-time inference.
+An **end-to-end ML system** demonstrating the full data science workflow: exploration, preprocessing, model comparison, and deployment.
 
-Highlights:
-- Preprocessing + feature engineering
-- Model comparison: Linear, Ridge, Lasso, Random Forest
-- Strong regression quality (R² ≈ 0.89 with Random Forest)
-- Streamlit deployment with input form and visualizations
+**What I built:**
+- Data preprocessing with feature engineering (scaling, normalization, encoding)
+- Model benchmarking: Linear, Ridge, Lasso, Random Forest
+- Strong R² performance (0.89 with Random Forest) on validation set
+- Interactive Streamlit deployment for real-time price prediction with visualizations
 
-Stack: `Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
-
----
-
-### • ADHD Detection & Analysis 
-🔗 Repository: [ADHD-Project] (https://github.com/RITESH2127/ADHD-DETECTION-MINI-PROJECT-)
-
-An experimental ML pipeline and analysis toolkit for ADHD-related behavioral/sensor data. Includes data cleaning, feature extraction, model training, and a small demo UI for visualization and basic inference.
-
-Highlights:
-- Data preprocessing and signal/feature extraction
-- Model experiments using classical ML and lightweight neural models
-- Explainability artifacts (feature importance, SHAP summaries)
-- Demo UI (Streamlit) for visualization and inference
-
-Stack: `Python` `scikit-learn` `pandas` `numpy` `Streamlit` `Explainable-AI`
-
-
+**Tech:** Python • Scikit-learn • Pandas • NumPy • Matplotlib • Streamlit
 
 ---
 
-## 🐍 Live Auto-Playing Game (Snake)
+### 🧠 ADHD Detection & Analysis System
+[Repository](https://github.com/RITESH2127/ADHD-DETECTION-MINI-PROJECT-)
 
-A real **auto-playing Snake game** runs inside this README (no user interaction required).
-It is generated by GitHub Actions and refreshed automatically.
+A **diagnostic ML pipeline** for ADHD detection using behavioral and sensor data, featuring explainability and a clinical-grade inference interface.
+
+**What I built:**
+- Signal processing and feature extraction from multimodal data
+- Classical ML + lightweight neural models (LSTM, CNN)
+- Explainability layer using feature importance and SHAP analysis
+- Streamlit UI for clinicians to visualize predictions with confidence scores
+- Model interpretability for transparent decision-making
+
+**Tech:** Python • Scikit-learn • Pandas • NumPy • Deep Learning • Explainable AI
+
+---
+
+### 🎬 Movie Recommendation System
+Engineered with **NLP processing**, **content-based similarity**, and **collaborative filtering** for personalized recommendations.
+
+**Key features:**
+- Movie metadata similarity (genres, cast, crew overview)
+- TF-IDF vectorization with cosine similarity matching
+- Streamlit interface for real-time personalized recommendations
+- Scalable design for multi-user environments
+
+**Tech:** Python • NLP • Scikit-learn • Streamlit • TMDB API
+
+---
+
+### 📊 Customer Churn Prediction System
+Built predictive models with **SMOTE-based class balancing** and **Random Forest optimization** to identify at-risk customers.
+
+**Achievements:**
+- Achieved 85%+ accuracy and strong precision/recall metrics
+- Identified key retention metrics through feature importance analysis
+- Deployed full-stack web application with interactive dashboards
+- Real-time risk scoring for business stakeholders
+
+**Tech:** Python • Scikit-learn • Random Forest • SMOTE • FastAPI • Chart.js
+
+---
+
+## 🎓 Education
+
+**Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi**  
+*B.Tech in Computer Science Engineering (AI/ML) | 2023–2027*
+
+**Certifications & Training:**
+- Machine Learning & Data Science Bootcamp (GeeksforGeeks)
+- Python Programming & AI Fluency (GeeksforGeeks)
+- Anthropic Generative AI & Applications Training
+- Network Implementation & Network Basics
+
+---
+
+## 🐍 Live Code Rain + Stats
+
+An auto-playing visualization of my technical journey — updated automatically every 12 hours.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RITESH2127/RITESH2127/output/snake.svg" alt="Auto-playing snake animation" />
+
+![Auto-playing Snake Game](https://raw.githubusercontent.com/RITESH2127/RITESH2127/output/snake.svg)
+
 </div>
 
 <details>
-<summary><b>How this works</b></summary>
+<summary><b>How it works</b> — Click to expand</summary>
 
-- A workflow (`.github/workflows/snake.yml`) runs every 12 hours and on manual trigger.
-- It generates animated SVG files using `Platane/snk`.
-- The generated files are published to the `output` branch.
-- This README displays that SVG so the game appears "live" and self-playing.
+This visualization is generated by GitHub Actions:
+- **Workflow**: `.github/workflows/snake.yml` runs every 12 hours and on push
+- **Generator**: Uses [`Platane/snk`](https://github.com/Platane/snk) to convert my GitHub contribution graph into an animated SVG
+- **Deployment**: Published to the `output` branch and displayed here
+- **Purpose**: A living, breathing representation of my coding activity
+
+You can create this for your own profile too!
 
 </details>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Focus & Goals
 
-I’m currently preparing for **2026 Software Engineering / ML Engineering opportunities** and actively exploring collaboration in:
+I'm actively preparing for **2026 software engineering and ML engineering opportunities**, with particular interest in:
 
-- Applied AI products
-- Intelligent automation systems
-- Scalable backend engineering
-- Accessibility-focused digital experiences
+| Area | What I'm Exploring |
+|------|-------------------|
+| **Applied AI** | Production ML systems, model deployment, MLOps |
+| **Backend Engineering** | Scalable APIs, microservices, cloud-native systems |
+| **Product Development** | Full-stack solutions that balance technical excellence with user experience |
+| **Accessibility & Inclusion** | Building technology that works for everyone, inclusive design practices |
 
 ---
 
-## 📦 Installation / Portfolio Usage
+## 📊 Developer Snapshot
 
-If you want to use this repository locally:
-
-```bash
-git clone https://github.com/RITESH2127/RITESH2127.git
-cd RITESH2127
-```
-
-You can then:
-- Open static files (like portfolio HTML) in your browser
-- Explore project links above for complete app-specific setup instructions
-
-<details>
-<summary><b>💡 Pro Tip</b>: Make your own interactive README game</summary>
-
-You can also automate README visuals with GitHub Actions (like the Snake animation) to keep your profile dynamic without manual edits.
-
-</details>
+**Key Metrics:**
+- 🔧 **15+ Hackathons** — Product-focused building and competition wins
+- 👥 **100+ Mentees** — ML/AI training and community impact
+- 🏆 **Multiple Achievements** — 1st place @ ISA Delhi; 4th place @ IEEE hackathons
+- 📦 **Production Projects** — Real-world deployments and live systems
 
 ---
 
 ## 🤝 Let's Connect
 
-I’m always open to meaningful collaboration, internships, and product-focused conversations.
+I'm always open to:
+- 💼 **Internships & roles** in ML engineering, full-stack development, and product teams
+- 🤝 **Collaboration** on impactful technical projects
+- 💬 **Technical discussions** about ML, systems design, and product strategy
+- 🌍 **Community involvement** — workshops, mentoring, open source
 
-- GitHub: **[RITESH2127](https://github.com/RITESH2127)**
-- LinkedIn: **[Ritesh Kumar](https://www.linkedin.com/in/ritesh-kumar-173154355)**
-- Email: **[riteshkumarnew369@gmail.com](mailto:riteshkumarnew369@gmail.com)**
+**Reach out:**
+- **GitHub:** [@RITESH2127](https://github.com/RITESH2127)
+- **LinkedIn:** [Ritesh Kumar](https://www.linkedin.com/in/ritesh-kumar-173154355)
+- **Email:** [riteshkumarnew369@gmail.com](mailto:riteshkumarnew369@gmail.com)
+
+---
 
 <div align="center">
 
-### ⭐ If you enjoy my work, consider following and starring the repositories.
+### ⭐ If you find value in my work, consider following and starring the repositories!
+
+**Last updated:** August 2026  
+*Actively building, learning, and shipping.*
 
 </div>
