@@ -342,9 +342,9 @@ Improving DSA, APIs, system design, code quality and production thinking.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./dist/snake.svg">
-    <img src="./dist/snake-dark.svg" alt="Contribution snake animation" width="95%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RITESH2127/RITESH2127/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RITESH2127/RITESH2127/output/snake.svg">
+    <img src="https://raw.githubusercontent.com/RITESH2127/RITESH2127/output/snake-dark.svg" alt="Contribution snake animation" width="95%">
   </picture>
 </div>
 
