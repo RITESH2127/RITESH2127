@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+<title id="title">Ritesh Kumar — AI and Software Engineering</title>
+<desc id="desc">A cinematic abstract neural network visualization with the name Ritesh Kumar and focus areas in AI, machine learning and software engineering.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030409"/><stop offset=".55" stop-color="#08121c"/><stop offset="1" stop-color="#13091c"/></linearGradient>
+  <radialGradient id="cyan"><stop stop-color="#00e5ff" stop-opacity=".32"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violet"><stop stop-color="#a76bff" stop-opacity=".28"/><stop offset="1" stop-color="#a76bff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00e5ff" stop-opacity=".65"/><stop offset="1" stop-color="#a76bff" stop-opacity=".12"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1600" height="420" rx="28" fill="url(#bg)"/>
+<rect width="1600" height="420" rx="28" fill="url(#grid)"/>
+<circle cx="180" cy="70" r="310" fill="url(#cyan)"/>
+<circle cx="1430" cy="350" r="360" fill="url(#violet)"/>
+<g stroke="url(#line)" stroke-width="1.5" fill="none">
+  <path d="M1010 85L1180 145L1340 90L1490 165L1390 300L1200 330L1050 260L1010 85"/>
+  <path d="M1180 145L1200 330M1340 90L1390 300M1050 260L1490 165"/>
+  <path d="M1010 85L1340 90M1050 260L1390 300"/>
+</g>
+<g fill="#00e5ff" filter="url(#glow)">
+  <circle cx="1010" cy="85" r="5"/><circle cx="1180" cy="145" r="4"/><circle cx="1340" cy="90" r="5"/>
+  <circle cx="1490" cy="165" r="4"/><circle cx="1390" cy="300" r="5"/><circle cx="1200" cy="330" r="4"/><circle cx="1050" cy="260" r="5"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#f8fafc">
+  <text x="100" y="165" font-size="22" letter-spacing="6" fill="#00e5ff">RITESH KUMAR</text>
+  <text x="100" y="220" font-size="54" font-weight="700">AI · ML · SOFTWARE</text>
+  <text x="100" y="258" font-size="54" font-weight="700">ENGINEERING</text>
+  <text x="102" y="305" font-size="18" fill="#94a3b8">Building intelligent systems from data to deployment.</text>
+  <text x="102" y="340" font-size="14" fill="#64748b" letter-spacing="2">LEARN  •  BUILD  •  EXPERIMENT  •  SHIP</text>
+</g>
+<g font-family="monospace" font-size="12" fill="#00e5ff" opacity=".75">
+ <text x="1080" y="55">SYSTEMS / DATA / MODELS</text>
+ <text x="1240" y="385">01 — 0F — AI — ML</text>
+</g>
+</svg>
