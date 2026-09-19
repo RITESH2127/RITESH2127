@@ -17,6 +17,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=AI+%2F+ML+Engineer+in+the+making;Data+%E2%86%92+Models+%E2%86%92+APIs+%E2%86%92+Products;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Build+with+curiosity.+Ship+with+purpose." alt="Ritesh Kumar typing animation">
 
+<br>
+
+<a href="https://github.com/RITESH2127/RITESH2127/actions/workflows/profile-analytics.yml"><img src="https://img.shields.io/badge/PROFILE%20ANALYTICS-AUTOMATED-00E5FF?style=flat-square&logo=githubactions&logoColor=white" alt="Profile analytics workflow"></a>
+<a href="https://github.com/RITESH2127/RITESH2127/actions/workflows/snake.yml"><img src="https://img.shields.io/badge/CONTRIBUTION%20MATRIX-AUTOMATED-A76BFF?style=flat-square&logo=githubactions&logoColor=white" alt="Contribution matrix workflow"></a>
+
 <p><strong>B.Tech Computer Science Engineering</strong> · Bharati Vidyapeeth's College of Engineering, Delhi</p>
 
 </div>
@@ -318,39 +323,49 @@ Improving DSA, APIs, system design, code quality and production thinking.
 
 ---
 
-## ◈ GitHub Telemetry
+## ◈ Engineering Dashboard
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
-    <img src="./profile/stats-dark.svg" alt="GitHub statistics" width="49%">
+    <img src="./profile/stats-dark.svg" alt="Engineering telemetry" width="49%">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
-    <img src="./profile/top-langs-dark.svg" alt="Top languages" width="42%">
+    <img src="./profile/top-langs-dark.svg" alt="Codebase signals" width="42%">
   </picture>
 </p>
 
-> **Live data, generated locally by GitHub Actions.**  
-> This avoids depending on a public stats endpoint at page-load time.
+<p align="center">
+  <sub>Repository-backed analytics • generated automatically • no runtime stats service required</sub>
+</p>
 
----
-
-## ◈ Contribution Matrix
+### Contribution Matrix
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RITESH2127/RITESH2127/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RITESH2127/RITESH2127/output/snake.svg">
-    <img src="https://raw.githubusercontent.com/RITESH2127/RITESH2127/output/snake-dark.svg" alt="Contribution snake animation" width="95%">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-light.svg">
+    <img src="./profile/contribution-dark.svg" alt="GitHub contribution activity" width="95%">
   </picture>
 </div>
 
 <p align="center">
-  <sub>My GitHub contribution activity visualized as a generated contribution map.</sub>
+  <sub>Generated from my GitHub contribution history and refreshed automatically.</sub>
 </p>
+
+### Profile Operations
+
+| System | Purpose | Refresh |
+|:--|:--|:--|
+| **Analytics Engine** | GitHub stats + language signals | Daily + on profile changes |
+| **Contribution Matrix** | Contribution activity visualization | Every 12 hours + on profile changes |
+| **Integrity Checks** | Verifies generated SVGs before commit | Every generation |
+| **Theme Layer** | Dark/light variants for GitHub UI | Automatic |
+
+> **Reliability principle:** generated assets are committed into this profile repository so the README does not depend on a third-party image endpoint at page-load time.
 
 ---
 
@@ -364,8 +379,25 @@ Improving DSA, APIs, system design, code quality and production thinking.
 | [Customer-Churn-Prediction-System](https://github.com/RITESH2127/Customer-Churn-Prediction-System) | Classification · APIs |
 | [EDGE-VISION](https://github.com/RITESH2127/EDGE-VISION) | Computer Vision |
 | [AGENTIC-AI-HACKATHON-](https://github.com/RITESH2127/AGENTIC-AI-HACKATHON-) | Agents · Rapid Prototyping |
+| [EMOTION-AWARE-HACKATHON](https://github.com/RITESH2127/EMOTION-AWARE-HACKATHON) | AI · Hackathon Build |
+| [Document-Assistant-Quiz-Gen](https://github.com/RITESH2127/Document-Assistant-Quiz-Gen) | AI · Documents · Quiz Generation |
 | [PORTFOLIO](https://github.com/RITESH2127/PORTFOLIO) | Web Engineering |
 | [LEETCODE](https://github.com/RITESH2127/LEETCODE) | DSA · SQL · Problem Solving |
+
+---
+
+## ◈ Engineering Standards
+
+<table>
+<tr>
+<td align="center"><strong>01</strong><br>Reproducible</td>
+<td align="center"><strong>02</strong><br>Measured</td>
+<td align="center"><strong>03</strong><br>Explainable</td>
+<td align="center"><strong>04</strong><br>Deployable</td>
+</tr>
+</table>
+
+> I care about the full engineering path: **problem → data → model → system → user → feedback**.
 
 ---
 
