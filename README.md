@@ -360,8 +360,8 @@ Improving DSA, APIs, system design, code quality and production thinking.
 
 | System | Purpose | Refresh |
 |:--|:--|:--|
-| **Analytics Engine** | GitHub stats + language signals | Daily + on profile changes |
-| **Contribution Matrix** | Contribution activity visualization | Every 12 hours + on profile changes |
+| **Analytics Engine** | GitHub stats + language signals | Twice daily |
+| **Contribution Matrix** | Contribution activity visualization | Twice daily |
 | **Integrity Checks** | Verifies generated SVGs before commit | Every generation |
 | **Theme Layer** | Dark/light variants for GitHub UI | Automatic |
 
