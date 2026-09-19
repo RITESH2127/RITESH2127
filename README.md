@@ -19,8 +19,8 @@
 
 <br>
 
-<a href="https://github.com/RITESH2127/RITESH2127/actions/workflows/profile-analytics.yml"><img src="https://img.shields.io/badge/PROFILE%20ANALYTICS-AUTOMATED-00E5FF?style=flat-square&logo=githubactions&logoColor=white" alt="Profile analytics workflow"></a>
-<a href="https://github.com/RITESH2127/RITESH2127/actions/workflows/snake.yml"><img src="https://img.shields.io/badge/CONTRIBUTION%20MATRIX-AUTOMATED-A76BFF?style=flat-square&logo=githubactions&logoColor=white" alt="Contribution matrix workflow"></a>
+<a href="https://github.com/RITESH2127/RITESH2127/actions/workflows/profile-assets.yml"><img src="https://img.shields.io/badge/PROFILE%20ANALYTICS-AUTOMATED-00E5FF?style=flat-square&logo=githubactions&logoColor=white" alt="Profile analytics workflow"></a>
+<a href="https://github.com/RITESH2127/RITESH2127/actions/workflows/profile-assets.yml"><img src="https://img.shields.io/badge/PROFILE%20ASSETS-AUTOMATED-A76BFF?style=flat-square&logo=githubactions&logoColor=white" alt="Profile assets workflow"></a>
 
 <p><strong>B.Tech Computer Science Engineering</strong> · Bharati Vidyapeeth's College of Engineering, Delhi</p>
 
