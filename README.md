@@ -320,33 +320,37 @@ Improving DSA, APIs, system design, code quality and production thinking.
 
 ## ◈ GitHub Telemetry
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+    <img src="./profile/stats-dark.svg" alt="GitHub statistics" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
+    <img src="./profile/top-langs-dark.svg" alt="Top languages" width="42%">
+  </picture>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RITESH2127&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=94A3B8&icon_color=A76BFF&rank_icon=github" height="175" alt="GitHub statistics">
-
-<img src="https://streak-stats.demolab.com?user=RITESH2127&hide_border=true&background=00000000&ring=00E5FF&fire=FF2A85&currStreakLabel=00E5FF&sideLabels=94A3B8&dates=64748B" height="175" alt="GitHub streak">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITESH2127&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=94A3B8" height="175" alt="Top languages">
-
-</div>
+> **Live data, generated locally by GitHub Actions.**  
+> This avoids depending on a public stats endpoint at page-load time.
 
 ---
 
 ## ◈ Contribution Matrix
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RITESH2127/RITESH2127/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RITESH2127/RITESH2127/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/RITESH2127/RITESH2127/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./dist/snake.svg">
+    <img src="./dist/snake-dark.svg" alt="Contribution snake animation" width="95%">
+  </picture>
 </div>
+
+<p align="center">
+  <sub>My GitHub contribution activity visualized as a generated contribution map.</sub>
+</p>
 
 ---
 
