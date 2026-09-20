@@ -25,6 +25,8 @@
 
 </div>
 
+<img src="./assets/terminal.svg" width="100%" alt="Ritesh Kumar engineering terminal">
+
 I’m **Ritesh Kumar**, a Computer Science Engineering student interested in building practical systems at the intersection of **Artificial Intelligence, Machine Learning, Data Science and Software Engineering**.
 
 I don't want my projects to stop at *“the model trained successfully.”*
@@ -38,6 +40,10 @@ I like taking an idea through the entire chain:
 </div>
 
 > **The objective is not to make a notebook look impressive. The objective is to make the system useful.**
+
+<br>
+
+<img src="./assets/featured-systems.svg" width="100%" alt="Featured AI and ML systems">
 
 ---
 
@@ -241,6 +247,8 @@ Rapid prototypes exploring agentic AI, emotion-aware systems and interactive web
 
 </div>
 
+<img src="./assets/ml-architecture.svg" width="100%" alt="Machine learning engineering architecture">
+
 ~~~mermaid
 flowchart LR
     P["01 / PROBLEM"] --> D["02 / DATA"]
@@ -270,7 +278,7 @@ flowchart LR
 
 My [LeetCode repository](https://github.com/RITESH2127/LEETCODE) is where I turn interview preparation into a long-term engineering habit.
 
-**48 solved problems** are currently tracked across algorithmic and SQL practice.
+**Algorithmic and SQL problems** are tracked as an ongoing interview-preparation practice.
 
 ~~~text
                     PROBLEM
@@ -369,6 +377,10 @@ My [LeetCode repository](https://github.com/RITESH2127/LEETCODE) is where I turn
 <td align="center" width="25%"><h3>SWE</h3><sub>DSA<br>APIs<br>Systems</sub></td>
 </tr>
 </table>
+
+<br>
+
+<img src="./assets/terminal.svg" width="100%" alt="Current engineering status">
 
 </div>
 
