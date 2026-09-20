@@ -147,6 +147,26 @@ Worked on an end-to-end **House Price Prediction** application.
 
 → [View the project](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL)
 
+
+### Machine Learning Engineer Intern · Swift Volt Ventures
+**Jun 16, 2026 — Aug 16, 2026**
+
+Worked on the **Battery Intelligence Platform**, an end-to-end machine-learning system for EV battery health, degradation and Remaining Useful Life (RUL) analysis.
+
+**What I worked on**
+- Battery telemetry preprocessing, validation and degradation-oriented feature engineering
+- State of Health (SoH) and Remaining Useful Life (RUL) prediction workflows
+- Model development and comparison using Random Forest, XGBoost, Gradient Boosting and LightGBM
+- Model evaluation with cross-validation and regression metrics
+- SHAP-based global and local explainability for ML predictions
+- Interactive Streamlit dashboards for prediction, analytics, explainability and fleet monitoring
+- Model persistence with Joblib and reproducible preprocessing/model metadata
+- Docker, Docker Compose, GitHub Actions CI and automated smoke testing
+
+**Project:** [Battery Intelligence Platform](https://github.com/RITESH2127/-BATTERY-INTELLIGENCE-PLAYTFORM-2026-INTERSHIP-SWIFT-VOLT-VENTURES-)
+
+**Credential:** [Swift Volt Ventures Internship Certificate](https://github.com/RITESH2127/-BATTERY-INTELLIGENCE-PLAYTFORM-2026-INTERSHIP-SWIFT-VOLT-VENTURES-/blob/main/ritesh.pdf)
+
 ---
 
 # ◈ Selected Work
