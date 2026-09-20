@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop stop-color="#00E5FF"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+</defs>
+<rect width="1000" height="360" rx="24" fill="#080B14" stroke="#26324A"/>
+<rect x="0" y="0" width="1000" height="54" rx="24" fill="#0D1322"/>
+<circle cx="28" cy="27" r="7" fill="#FF5F56"/><circle cx="51" cy="27" r="7" fill="#FFBD2E"/><circle cx="74" cy="27" r="7" fill="#27C93F"/>
+<text x="105" y="33" fill="#8B9AB5" font-family="monospace" font-size="16">ritesh@github — engineering terminal</text>
+<text x="38" y="92" fill="#00E5FF" font-family="monospace" font-size="17">$ whoami</text>
+<text x="38" y="120" fill="#F4F7FB" font-family="monospace" font-size="18">ritesh_kumar</text>
+<text x="38" y="158" fill="#00E5FF" font-family="monospace" font-size="17">$ cat profile.json</text>
+<text x="38" y="190" fill="#B7C2D9" font-family="monospace" font-size="16">{ "focus": ["AI/ML", "Data", "Software"],</text>
+<text x="38" y="218" fill="#B7C2D9" font-family="monospace" font-size="16">  "build": ["models", "APIs", "applications"],</text>
+<text x="38" y="246" fill="#B7C2D9" font-family="monospace" font-size="16">  "mode": "learn → experiment → engineer → ship" }</text>
+<text x="38" y="286" fill="#00E5FF" font-family="monospace" font-size="17">$ git status</text>
+<text x="38" y="316" fill="#7EE787" font-family="monospace" font-size="16">✓ learning   ✓ building   ✓ experimenting   ✓ shipping</text>
+</svg>
