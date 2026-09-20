@@ -49,7 +49,24 @@ I like taking an idea through the entire chain:
 
 <div align="center">
 
-### 02 — ENGINEERING DNA
+<div align="center">
+
+### 02 — RECRUITER QUICK SCAN
+
+<table>
+<tr>
+<td align="center" width="25%"><b>🎓 EDUCATION</b><br><sub>B.Tech CSE</sub></td>
+<td align="center" width="25%"><b>🤖 FOCUS</b><br><sub>AI · ML · Data</sub></td>
+<td align="center" width="25%"><b>💻 CORE</b><br><sub>Python · C++ · Java · SQL</sub></td>
+<td align="center" width="25%"><b>🚀 BUILD</b><br><sub>APIs · Apps · Deployment</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 03 — ENGINEERING DNA
 
 <table>
 <tr>
@@ -66,7 +83,7 @@ I like taking an idea through the entire chain:
 
 <div align="center">
 
-### 03 — THE STACK
+### 04 — THE STACK
 
 </div>
 
@@ -113,7 +130,7 @@ Git · GitHub Actions · Docker · Testing · CI/CD
 
 <div align="center">
 
-### 04 — EXPERIENCE THAT MADE IT REAL
+### 05 — EXPERIENCE THAT MADE IT REAL
 
 </div>
 
@@ -160,7 +177,7 @@ Built an end-to-end regression application covering preprocessing, EDA, model co
 
 <div align="center">
 
-### 05 — THE PROJECT LAB
+### 06 — THE PROJECT LAB
 
 </div>
 
@@ -243,7 +260,7 @@ Rapid prototypes exploring agentic AI, emotion-aware systems and interactive web
 
 <div align="center">
 
-### 06 — HOW I THINK ABOUT AN ML SYSTEM
+### 07 — HOW I THINK ABOUT AN ML SYSTEM
 
 </div>
 
@@ -272,7 +289,7 @@ flowchart LR
 
 <div align="center">
 
-### 07 — PROBLEM SOLVING MODE
+### 08 — PROBLEM SOLVING MODE
 
 </div>
 
@@ -304,7 +321,7 @@ My [LeetCode repository](https://github.com/RITESH2127/LEETCODE) is where I turn
 
 <div align="center">
 
-### 08 — PROFILE TELEMETRY
+### 09 — PROFILE TELEMETRY
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
@@ -333,7 +350,7 @@ My [LeetCode repository](https://github.com/RITESH2127/LEETCODE) is where I turn
 
 <div align="center">
 
-### 09 — THE REPOSITORY MAP
+### 10 — THE REPOSITORY MAP
 
 </div>
 
@@ -353,7 +370,7 @@ My [LeetCode repository](https://github.com/RITESH2127/LEETCODE) is where I turn
 
 <div align="center">
 
-### 10 — BEYOND CODE
+### 11 — BEYOND CODE
 
 </div>
 
@@ -367,7 +384,7 @@ My [LeetCode repository](https://github.com/RITESH2127/LEETCODE) is where I turn
 
 <div align="center">
 
-### 11 — CURRENT TRAJECTORY
+### 12 — CURRENT TRAJECTORY
 
 <table>
 <tr>
@@ -381,6 +398,82 @@ My [LeetCode repository](https://github.com/RITESH2127/LEETCODE) is where I turn
 <br>
 
 <img src="./assets/terminal.svg" width="100%" alt="Current engineering status">
+
+</div>
+
+<div align="center">
+
+### 13 — FLAGSHIP PROJECT CASE STUDIES
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔋 BATTERY INTELLIGENCE
+
+**Problem**  
+Battery health, degradation and RUL workflows.
+
+**Approach**  
+Telemetry → features → ensemble ML → SHAP → application.
+
+**Stack**  
+XGBoost · LightGBM · Random Forest · SHAP · Streamlit · Docker
+
+**Signal**  
+End-to-end ML engineering + explainability.
+
+[View system →](https://github.com/RITESH2127/-BATTERY-INTELLIGENCE-PLAYTFORM-2026-INTERSHIP-SWIFT-VOLT-VENTURES-)
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 ADHD DETECTION
+
+**Problem**  
+Explore neurological signals for ADHD detection.
+
+**Approach**  
+Deep learning representations + interpretability workflows.
+
+**Stack**  
+EEG · fMRI · ResNet · Grad-CAM · LIME
+
+**Signal**  
+Deep learning + explainable AI research.
+
+[View system →](https://github.com/RITESH2127/ADHD-DETECTION-MINI-PROJECT-)
+
+</td>
+<td width="33%" valign="top">
+
+### 🏠 HOUSE PRICE
+
+**Problem**  
+Build a practical regression prediction tool.
+
+**Approach**  
+EDA → preprocessing → model comparison → deployment.
+
+**Stack**  
+Linear · Ridge · Lasso · Random Forest · Streamlit
+
+**Signal**  
+Classical ML → usable application.
+
+[View system →](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### BUILD → EXPERIMENT → MEASURE → EXPLAIN → DEPLOY → ITERATE
 
 </div>
 
