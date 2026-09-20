@@ -409,7 +409,7 @@ My [LeetCode repository](https://github.com/RITESH2127/LEETCODE) is where I turn
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔋 BATTERY INTELLIGENCE
 
@@ -428,7 +428,7 @@ End-to-end ML engineering + explainability.
 [View system →](https://github.com/RITESH2127/-BATTERY-INTELLIGENCE-PLAYTFORM-2026-INTERSHIP-SWIFT-VOLT-VENTURES-)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧠 ADHD DETECTION
 
@@ -447,25 +447,7 @@ Deep learning + explainable AI research.
 [View system →](https://github.com/RITESH2127/ADHD-DETECTION-MINI-PROJECT-)
 
 </td>
-<td width="33%" valign="top">
 
-### 🏠 HOUSE PRICE
-
-**Problem**  
-Build a practical regression prediction tool.
-
-**Approach**  
-EDA → preprocessing → model comparison → deployment.
-
-**Stack**  
-Linear · Ridge · Lasso · Random Forest · Streamlit
-
-**Signal**  
-Classical ML → usable application.
-
-[View system →](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL)
-
-</td>
 </tr>
 </table>
 
