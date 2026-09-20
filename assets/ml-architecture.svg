@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00E5FF"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
+<rect width="1100" height="300" rx="24" fill="#080B14" stroke="#26324A"/>
+<text x="40" y="38" fill="#8B9AB5" font-family="monospace" font-size="14">SYSTEM PIPELINE / ML ENGINEERING</text>
+<g font-family="monospace" text-anchor="middle">
+<g fill="#10182A" stroke="#00E5FF"><rect x="35" y="95" width="145" height="72" rx="14"/><rect x="215" y="95" width="145" height="72" rx="14"/><rect x="395" y="95" width="145" height="72" rx="14"/><rect x="575" y="95" width="145" height="72" rx="14"/><rect x="755" y="95" width="145" height="72" rx="14"/><rect x="935" y="95" width="130" height="72" rx="14"/></g>
+<g fill="#F4F7FB" font-size="15"><text x="107" y="124">DATA</text><text x="107" y="147" fill="#8B9AB5">validate</text><text x="287" y="124">EXPLORE</text><text x="287" y="147" fill="#8B9AB5">EDA</text><text x="467" y="124">FEATURES</text><text x="467" y="147" fill="#8B9AB5">engineer</text><text x="647" y="124">MODEL</text><text x="647" y="147" fill="#8B9AB5">train</text><text x="827" y="124">XAI / TEST</text><text x="827" y="147" fill="#8B9AB5">measure</text><text x="1000" y="124">SHIP</text><text x="1000" y="147" fill="#8B9AB5">serve</text></g>
+</g>
+<g stroke="url(#g)" stroke-width="3" fill="none"><path d="M180 131h35M360 131h35M540 131h35M720 131h35M900 131h35"/></g>
+<text x="550" y="235" fill="#B7C2D9" font-family="monospace" font-size="15" text-anchor="middle">feedback → evaluation → iteration → better systems</text>
+</svg>
