@@ -1,218 +1,226 @@
+<!-- ═══════════════════════════════════════════════════════════════════════
+     RITESH KUMAR — GitHub Profile README
+     Designed as a living engineering portfolio.
+════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero.svg">
-  <img src="./assets/hero.svg" alt="Ritesh Kumar — AI, ML and Software Engineering" width="100%">
-</picture>
+<a href="https://github.com/RITESH2127">
+  <img src="./assets/hero.svg" alt="Ritesh Kumar — AI, ML & Software Engineering" width="100%">
+</a>
 
 <br>
 
-<a href="PORTFOLIO.html"><img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-0B0F14?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="Ritesh_Kumar_Resume_.pdf"><img src="https://img.shields.io/badge/VIEW%20RESUME-0B0F14?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
-<a href="https://www.linkedin.com/in/ritesh-kumar-173154355"><img src="https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:riteshkumarnew369@gmail.com"><img src="https://img.shields.io/badge/LET'S%20TALK-0B0F14?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+# RITESH KUMAR
+
+### AI • MACHINE LEARNING • DATA • SOFTWARE ENGINEERING
+
+<p>
+  <em>Building intelligent systems from raw data to usable software.</em>
+</p>
+
+<br>
+
+<a href="./PORTFOLIO.html">
+  <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+<a href="./Ritesh_Kumar_Resume_.pdf">
+  <img src="https://img.shields.io/badge/RESUME-VIEW-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+</a>
+<a href="https://www.linkedin.com/in/ritesh-kumar-173154355">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:riteshkumarnew369@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=AI+%2F+ML+Engineer+in+the+making;Data+%E2%86%92+Models+%E2%86%92+APIs+%E2%86%92+Products;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Build+with+curiosity.+Ship+with+purpose." alt="Ritesh Kumar typing animation">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=00E5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+AI+Engineering;Data+%E2%86%92+Models+%E2%86%92+APIs+%E2%86%92+Interfaces;Deep+Learning+%7C+XAI+%7C+Recommendation+Systems;Build+with+curiosity.+Ship+with+discipline." alt="Typing animation">
 
 <br>
 
-<a href="https://github.com/RITESH2127/RITESH2127/actions/workflows/profile-assets.yml"><img src="https://img.shields.io/badge/PROFILE%20ANALYTICS-AUTOMATED-00E5FF?style=flat-square&logo=githubactions&logoColor=white" alt="Profile analytics workflow"></a>
-<a href="https://github.com/RITESH2127/RITESH2127/actions/workflows/profile-assets.yml"><img src="https://img.shields.io/badge/PROFILE%20ASSETS-AUTOMATED-A76BFF?style=flat-square&logo=githubactions&logoColor=white" alt="Profile assets workflow"></a>
-
-<p><strong>B.Tech Computer Science Engineering</strong> · Bharati Vidyapeeth's College of Engineering, Delhi</p>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20BVCOE%20Delhi-111827?style=flat-square" alt="Degree">
+<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-00E5FF?style=flat-square" alt="Focus">
+<img src="https://img.shields.io/badge/Build-Deploy-8B5CF6?style=flat-square" alt="Build">
+<img src="https://img.shields.io/badge/Always-Learning-F59E0B?style=flat-square" alt="Learning">
 
 </div>
 
 ---
 
-## ◈ The Short Version
+## ◈ WHO I AM
 
-> **I build intelligent software systems — not just notebooks.**
+I’m **Ritesh Kumar**, a Computer Science Engineering student focused on the intersection of **Machine Learning, Artificial Intelligence, Data Science, and Software Engineering**.
 
-I'm **Ritesh Kumar**, a Computer Science Engineering student working at the intersection of **Artificial Intelligence, Machine Learning, Data Science, and Software Engineering**.
+I enjoy the full engineering loop:
 
-I like the part of engineering where an idea becomes a working system:
+```text
+Problem
+  ↓
+Data
+  ↓
+Understanding
+  ↓
+Features
+  ↓
+Model
+  ↓
+Evaluation
+  ↓
+API / Application
+  ↓
+Deployment
+  ↓
+Iteration
+```
 
-**Problem → Data → Model → Evaluation → API → Interface → Deployment**
+My goal is simple:
 
-My repositories reflect that mindset: practical ML applications, deep-learning experiments, recommendation systems, computer vision, web engineering, hackathon prototypes, and continuous problem-solving.
+> **Turn ideas into systems that can be understood, tested, used, and improved.**
 
 ---
 
-## ◈ What I Build
+## ◈ AT A GLANCE
 
 <table>
 <tr>
-<td width="25%" align="center">
-<h3>01</h3>
-<strong>AI / ML</strong><br>
-<sub>Models that learn from data</sub>
+<td width="50%" valign="top">
+
+### CURRENT FOCUS
+
+- Machine Learning
+- Deep Learning
+- Explainable AI
+- Data Science
+- Backend & APIs
+- DSA + SQL
+
 </td>
-<td width="25%" align="center">
-<h3>02</h3>
-<strong>Data</strong><br>
-<sub>Pipelines, features & insights</sub>
-</td>
-<td width="25%" align="center">
-<h3>03</h3>
-<strong>Software</strong><br>
-<sub>APIs, interfaces & systems</sub>
-</td>
-<td width="25%" align="center">
-<h3>04</h3>
-<strong>Deployment</strong><br>
-<sub>Turning experiments into products</sub>
+<td width="50%" valign="top">
+
+### ENGINEERING MINDSET
+
+- Reproducible workflows
+- Measured model performance
+- Clean interfaces
+- Practical deployment
+- Clear documentation
+- Continuous iteration
+
 </td>
 </tr>
 </table>
 
-### My Engineering Loop
-
-```text
-┌──────────────┐
-│  Understand  │  Define the problem & success criteria
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    Explore   │  Clean, analyze & understand the data
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    Model     │  Train, compare, tune & validate
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│   Engineer   │  APIs, UI, persistence & reliability
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│     Ship     │  Deploy, document & iterate
-└──────────────┘
-```
-
 ---
 
-## ◈ Technical Arsenal
+## ◈ TECHNOLOGY CONSTELLATION
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql&perline=8" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql&perline=8" alt="Programming languages">
 </p>
 
-### AI / Data
+### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8" alt="AI frameworks">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8" alt="AI and ML">
 </p>
 
-**Core:** Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · Keras  
-**ML:** Regression · Classification · Clustering · Ensemble Methods · Feature Engineering · Model Selection  
-**Deep Learning:** Neural Networks · CNNs · Transfer Learning · Sequence Modeling  
-**XAI:** Grad-CAM · LIME · Explainability workflows  
-**NLP:** TF-IDF · Text similarity · Recommendation systems
+**Core:** NumPy · Pandas · Scikit-learn · Matplotlib · Seaborn · Keras  
+**Machine Learning:** Regression · Classification · Clustering · Ensemble Learning · Feature Engineering · Model Selection  
+**Deep Learning:** Neural Networks · CNNs · Sequence Modeling · Transfer Learning  
+**Explainability:** SHAP · Grad-CAM · LIME  
+**NLP / Recommendation:** TF-IDF · Cosine Similarity · Text Features · Recommendation Pipelines
 
-### Backend / Application / Cloud
+### Application / Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,gcp,git,github,html,css,js&perline=9" alt="Engineering stack">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,git,github,docker,html,css,js,gcp&perline=10" alt="Application and engineering stack">
 </p>
 
-**Application:** Flask · FastAPI · Streamlit · REST APIs  
-**Engineering:** Git · GitHub · API integration · Model persistence  
+**Application:** Streamlit · Flask · FastAPI · REST APIs  
+**Engineering:** Git · GitHub · Docker · CI/CD · Joblib · Testing  
 **Cloud:** Google Cloud Platform
 
 ---
 
-## ◈ Experience
+# ◈ EXPERIENCE
 
-### Machine Learning Intern · GAIL (India) Limited
-**Jul 2025 — Aug 2025 · Delhi**
+## Machine Learning Engineer Intern — Swift Volt Ventures
 
-Worked on an end-to-end **House Price Prediction** application.
+**Jun 2026 — Aug 2026**
 
-**What I worked on**
-- Data preprocessing and exploratory analysis
-- Feature engineering and feature scaling
-- Linear, Ridge and Lasso Regression
-- R² and RMSE based model evaluation
-- Hyperparameter tuning and model comparison
-- Model persistence with Joblib
-- Interactive prediction interface with Streamlit
+Worked on an end-to-end **Battery Intelligence Platform** focused on EV battery health, degradation and Remaining Useful Life (RUL).
 
-**The engineering takeaway:** a useful ML project is more than a trained model — it is the complete path from raw data to a usable prediction system.
+### Core work
 
-→ [View the project](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL)
-
-
-### Machine Learning Engineer Intern · Swift Volt Ventures
-**Jun 16, 2026 — Aug 16, 2026**
-
-Worked on the **Battery Intelligence Platform**, an end-to-end machine-learning system for EV battery health, degradation and Remaining Useful Life (RUL) analysis.
-
-**What I worked on**
-- Battery telemetry preprocessing, validation and degradation-oriented feature engineering
+- Battery telemetry preprocessing and degradation-oriented feature engineering
 - State of Health (SoH) and Remaining Useful Life (RUL) prediction workflows
-- Model development and comparison using Random Forest, XGBoost, Gradient Boosting and LightGBM
-- Model evaluation with cross-validation and regression metrics
-- SHAP-based global and local explainability for ML predictions
-- Interactive Streamlit dashboards for prediction, analytics, explainability and fleet monitoring
-- Model persistence with Joblib and reproducible preprocessing/model metadata
-- Docker, Docker Compose, GitHub Actions CI and automated smoke testing
+- Model comparison using Random Forest, XGBoost, Gradient Boosting and LightGBM
+- Cross-validation and regression-based evaluation
+- SHAP-based global and local explainability
+- Streamlit dashboards for prediction, analytics, explainability and fleet monitoring
+- Joblib-based model persistence and reproducible metadata
+- Docker, Docker Compose, GitHub Actions CI and smoke testing
 
-**Project:** [Battery Intelligence Platform](https://github.com/RITESH2127/-BATTERY-INTELLIGENCE-PLAYTFORM-2026-INTERSHIP-SWIFT-VOLT-VENTURES-)
-
-**Credential:** [Swift Volt Ventures Internship Certificate](https://github.com/RITESH2127/-BATTERY-INTELLIGENCE-PLAYTFORM-2026-INTERSHIP-SWIFT-VOLT-VENTURES-/blob/main/ritesh.pdf)
+**Project:** [Battery Intelligence Platform →](https://github.com/RITESH2127/-BATTERY-INTELLIGENCE-PLAYTFORM-2026-INTERSHIP-SWIFT-VOLT-VENTURES-)
 
 ---
 
-# ◈ Selected Work
+## Machine Learning Intern — GAIL (India) Limited
+
+**Jul 2025 — Aug 2025 · Delhi**
+
+Built the **Boston House Price Prediction Tool** as an end-to-end regression application.
+
+### Core work
+
+- Data preprocessing and exploratory analysis
+- Feature engineering and scaling
+- Linear, Ridge, Lasso and Random Forest regression
+- R² and RMSE model evaluation
+- Model comparison and selection
+- Joblib model persistence
+- Interactive Streamlit inference
+- Docker and GitHub Actions based engineering workflow
+
+**Project:** [House Price Prediction Tool →](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL)
+
+---
+
+# ◈ SELECTED BUILDS
 
 <div align="center">
 
-### 🧠 AI / RESEARCH
+### 🧠 DEEP LEARNING + XAI
 
 </div>
 
 ### ADHD Detection Mini Project
-A deep-learning oriented project exploring ADHD detection from neurological data, with a focus on model learning and interpretability.
 
-**Focus:** EEG · fMRI · Deep Learning · ResNet · Grad-CAM · LIME
+A deep-learning project exploring ADHD detection from neurological data with an emphasis on model learning and interpretability.
 
-→ [Open repository](https://github.com/RITESH2127/ADHD-DETECTION-MINI-PROJECT-)
+**Stack:** EEG · fMRI · ResNet · Deep Learning · Grad-CAM · LIME
 
----
-
-<div align="center">
-
-### 📈 MACHINE LEARNING
-
-</div>
-
-### House Price Prediction Tool
-An end-to-end regression workflow comparing multiple models and exposing the final prediction pipeline through an interactive application.
-
-**Focus:** Regression · EDA · Feature Engineering · Model Evaluation · Streamlit
-
-→ [Open repository](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL)
+[Open Repository →](https://github.com/RITESH2127/ADHD-DETECTION-MINI-PROJECT-)
 
 ---
 
 <div align="center">
 
-### 🎬 RECOMMENDATION SYSTEMS
+### 🎬 NLP + RECOMMENDATION
 
 </div>
 
 ### Movie Recommendation System
-A recommendation engine built around movie metadata, text representation and similarity-based recommendations.
 
-**Focus:** NLP · TF-IDF · Cosine Similarity · Recommendation Systems · Streamlit
+A recommendation pipeline using text representation and similarity-driven retrieval to generate movie recommendations.
 
-→ [Open repository](https://github.com/RITESH2127/MOVIE-RECOMMENDATION-SYSTEM)
+**Stack:** NLP · TF-IDF · Cosine Similarity · Recommendation Systems · Streamlit
+
+[Open Repository →](https://github.com/RITESH2127/MOVIE-RECOMMENDATION-SYSTEM)
 
 ---
 
@@ -223,11 +231,12 @@ A recommendation engine built around movie metadata, text representation and sim
 </div>
 
 ### Customer Churn Prediction System
-A classification-oriented system designed to identify customer churn, with attention to class imbalance and application-layer integration.
 
-**Focus:** Classification · Random Forest · SMOTE · FastAPI
+A machine-learning classification system for churn analysis with an application layer for serving predictions.
 
-→ [Open repository](https://github.com/RITESH2127/Customer-Churn-Prediction-System)
+**Stack:** Classification · Random Forest · SMOTE · FastAPI
+
+[Open Repository →](https://github.com/RITESH2127/Customer-Churn-Prediction-System)
 
 ---
 
@@ -238,11 +247,12 @@ A classification-oriented system designed to identify customer churn, with atten
 </div>
 
 ### Edge Vision
-A computer-vision focused project exploring practical visual intelligence and AI application development.
+
+A computer-vision oriented project focused on practical visual intelligence and application development.
 
 **Focus:** Computer Vision · AI · Application Development
 
-→ [Open repository](https://github.com/RITESH2127/EDGE-VISION)
+[Open Repository →](https://github.com/RITESH2127/EDGE-VISION)
 
 ---
 
@@ -252,183 +262,171 @@ A computer-vision focused project exploring practical visual intelligence and AI
 
 </div>
 
-### Agentic AI & Hackathon Projects
-Hackathons are my laboratory for moving quickly from an idea to a prototype — experimenting with AI agents, automation, interfaces and product concepts.
+### Agentic AI & Hackathon Builds
 
-→ [Agentic AI Hackathon](https://github.com/RITESH2127/AGENTIC-AI-HACKATHON-)  
-→ [Interactive Web Experience Challenge](https://github.com/RITESH2127/The-Interactive-Web-Experience-Challenge-hackathon)
+I use hackathons as a fast feedback loop for turning ideas into prototypes — experimenting with AI agents, automation, interfaces and product concepts.
+
+[Agentic AI Hackathon →](https://github.com/RITESH2127/AGENTIC-AI-HACKATHON-)  
+[Interactive Web Experience Challenge →](https://github.com/RITESH2127/The-Interactive-Web-Experience-Challenge-hackathon)  
+[Emotion-Aware Hackathon →](https://github.com/RITESH2127/EMOTION-AWARE-HACKATHON)
 
 ---
 
-## ◈ System Architecture
+# ◈ THE ENGINEERING PATTERN
 
-The way I think about AI projects:
+A large part of my work follows the same architecture:
 
 ```mermaid
 flowchart LR
-    A[Problem] --> B[Data]
-    B --> C[EDA & Preprocessing]
-    C --> D[Features]
-    D --> E[Model]
-    E --> F[Evaluation]
-    F --> G{Good enough?}
-    G -- No --> C
-    G -- Yes --> H[Persistence]
-    H --> I[API / Application]
-    I --> J[User]
-    J --> K[Feedback]
+    A["Problem"] --> B["Data"]
+    B --> C["EDA + Validation"]
+    C --> D["Feature Engineering"]
+    D --> E["Modeling"]
+    E --> F["Evaluation"]
+    F --> G{"Meets target?"}
+    G -- "No" --> C
+    G -- "Yes" --> H["Persist"]
+    H --> I["API / UI"]
+    I --> J["User"]
+    J --> K["Feedback"]
     K --> C
 ```
 
-The goal is not simply **high training performance**.
+### What matters to me
 
-The goal is a system that can be **understood, evaluated, used, improved, and eventually deployed**.
-
----
-
-## ◈ Beyond the Code
-
-**Developer Community**
-
-Experience with **Google Developer Student Club (GDSC), BVCOE**, including coordination and technical community activities.
-
-**Hackathons**
-
-I use hackathons to practice rapid problem decomposition, prototyping, teamwork, presentation, and shipping under constraints.
-
-**Problem Solving**
-
-My `LEETCODE` repository tracks ongoing practice across programming, SQL, algorithms and data structures.
-
-→ [Open LeetCode repository](https://github.com/RITESH2127/LEETCODE)
+| Layer | Question |
+|:--|:--|
+| **Problem** | What are we actually solving? |
+| **Data** | Is the input trustworthy and useful? |
+| **Model** | Does it learn the intended signal? |
+| **Evaluation** | Does the evidence support the result? |
+| **Engineering** | Can someone else run and reuse it? |
+| **Interface** | Can a real user interact with it? |
+| **Iteration** | What can be improved next? |
 
 ---
 
-## ◈ Currently Building
+# ◈ PROBLEM SOLVING
+
+### LeetCode + SQL
+
+My [LEETCODE repository](https://github.com/RITESH2127/LEETCODE) is a growing record of algorithmic and SQL practice.
+
+It currently contains **48 solved problems** tracked across Easy, Medium and Hard difficulty levels.
+
+### Covered patterns
+
+```text
+Arrays ── Hashing ── Two Pointers ── Strings
+    │
+    ├── Linked Lists
+    ├── Recursion
+    ├── Backtracking
+    ├── Greedy
+    └── Dynamic Programming
+
+SQL ── Filtering ── JOINs ── Aggregation
+  └── Subqueries ── Conditional Logic ── Analytics
+```
+
+[Explore the problem-solving repository →](https://github.com/RITESH2127/LEETCODE)
+
+---
+
+# ◈ COMMUNITY + COLLABORATION
+
+I’ve also explored the developer community through **Google Developer Student Club (GDSC), BVCOE**, hackathons, collaborative builds and technical project work.
+
+That experience has shaped an important lesson:
+
+> **Good engineering is not only about writing code — it is also about communicating ideas, working with people, and shipping under constraints.**
+
+---
+
+# ◈ WHAT I’M BUILDING TOWARD
 
 <table>
 <tr>
-<td>
-
-**01 · Machine Learning**
-
-Strengthening fundamentals, model selection, evaluation and practical deployment.
-
+<td align="center" width="25%">
+<h3>01</h3>
+<b>ML</b><br>
+<sub>Stronger fundamentals, evaluation & deployment</sub>
 </td>
-<td>
-
-**02 · Deep Learning**
-
-Going deeper into neural architectures, representation learning and explainability.
-
+<td align="center" width="25%">
+<h3>02</h3>
+<b>Deep Learning</b><br>
+<sub>Representation learning & modern architectures</sub>
 </td>
-</tr>
-<tr>
-<td>
-
-**03 · Generative / Agentic AI**
-
-Exploring modern AI application patterns and intelligent workflows.
-
+<td align="center" width="25%">
+<h3>03</h3>
+<b>GenAI / Agents</b><br>
+<sub>Intelligent applications & workflows</sub>
 </td>
-<td>
-
-**04 · Software Engineering**
-
-Improving DSA, APIs, system design, code quality and production thinking.
-
+<td align="center" width="25%">
+<h3>04</h3>
+<b>Software</b><br>
+<sub>DSA, APIs, systems & production thinking</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## ◈ Engineering Dashboard
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
-    <img src="./profile/stats-dark.svg" alt="Engineering telemetry" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
-    <img src="./profile/top-langs-dark.svg" alt="Codebase signals" width="42%">
-  </picture>
-</p>
-
-<p align="center">
-  <sub>Repository-backed analytics • generated automatically • no runtime stats service required</sub>
-</p>
-
-### Contribution Matrix
+# ◈ PROFILE TELEMETRY
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-light.svg">
-    <img src="./profile/contribution-dark.svg" alt="GitHub contribution activity" width="95%">
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+  <img src="./profile/stats-dark.svg" alt="GitHub statistics" width="49%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
+  <img src="./profile/top-langs-dark.svg" alt="Most used languages" width="42%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-light.svg">
+  <img src="./profile/contribution-dark.svg" alt="Contribution activity" width="95%">
+</picture>
+
+<sub>Repository-backed profile assets · automatically refreshed through GitHub Actions</sub>
+
 </div>
 
-<p align="center">
-  <sub>Generated from my GitHub contribution history and refreshed automatically.</sub>
-</p>
-
-### Profile Operations
-
-| System | Purpose | Refresh |
-|:--|:--|:--|
-| **Analytics Engine** | GitHub stats + language signals | Twice daily |
-| **Contribution Matrix** | Contribution activity visualization | Twice daily |
-| **Integrity Checks** | Verifies generated SVGs before commit | Every generation |
-| **Theme Layer** | Dark/light variants for GitHub UI | Automatic |
-
-> **Reliability principle:** generated assets are committed into this profile repository so the README does not depend on a third-party image endpoint at page-load time.
-
 ---
 
-## ◈ Repository Map
+# ◈ FEATURED REPOSITORIES
 
-| Repository | Signal |
+| Project | What it demonstrates |
 |:--|:--|
-| [ADHD-DETECTION-MINI-PROJECT-](https://github.com/RITESH2127/ADHD-DETECTION-MINI-PROJECT-) | Deep Learning · XAI · Research |
-| [HOUSE-PRICE-PREDICTION-TOOL](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL) | ML · Regression · Deployment |
-| [MOVIE-RECOMMENDATION-SYSTEM](https://github.com/RITESH2127/MOVIE-RECOMMENDATION-SYSTEM) | NLP · Recommendation |
-| [Customer-Churn-Prediction-System](https://github.com/RITESH2127/Customer-Churn-Prediction-System) | Classification · APIs |
-| [EDGE-VISION](https://github.com/RITESH2127/EDGE-VISION) | Computer Vision |
-| [AGENTIC-AI-HACKATHON-](https://github.com/RITESH2127/AGENTIC-AI-HACKATHON-) | Agents · Rapid Prototyping |
-| [EMOTION-AWARE-HACKATHON](https://github.com/RITESH2127/EMOTION-AWARE-HACKATHON) | AI · Hackathon Build |
-| [Document-Assistant-Quiz-Gen](https://github.com/RITESH2127/Document-Assistant-Quiz-Gen) | AI · Documents · Quiz Generation |
-| [PORTFOLIO](https://github.com/RITESH2127/PORTFOLIO) | Web Engineering |
-| [LEETCODE](https://github.com/RITESH2127/LEETCODE) | DSA · SQL · Problem Solving |
+| [Battery Intelligence Platform](https://github.com/RITESH2127/-BATTERY-INTELLIGENCE-PLAYTFORM-2026-INTERSHIP-SWIFT-VOLT-VENTURES-) | ML · Battery Prognostics · XAI · Dashboards · Docker |
+| [House Price Prediction Tool](https://github.com/RITESH2127/HOUSE-PRICE-PREDICTION-TOOL) | Regression · Evaluation · Streamlit · Deployment |
+| [ADHD Detection](https://github.com/RITESH2127/ADHD-DETECTION-MINI-PROJECT-) | Deep Learning · EEG/fMRI · Explainability |
+| [Movie Recommendation System](https://github.com/RITESH2127/MOVIE-RECOMMENDATION-SYSTEM) | NLP · TF-IDF · Similarity · Recommendation |
+| [Customer Churn Prediction](https://github.com/RITESH2127/Customer-Churn-Prediction-System) | Classification · SMOTE · FastAPI |
+| [Edge Vision](https://github.com/RITESH2127/EDGE-VISION) | Computer Vision · AI Application |
+| [Agentic AI Hackathon](https://github.com/RITESH2127/AGENTIC-AI-HACKATHON-) | Agents · Prototyping · Experimentation |
+| [Document Assistant & Quiz Gen](https://github.com/RITESH2127/Document-Assistant-Quiz-Gen) | RAG-style workflow · Embeddings · FAISS · Quiz Generation |
+| [Portfolio](https://github.com/RITESH2127/PORTFOLIO) | Interactive Web Engineering |
+| [LeetCode](https://github.com/RITESH2127/LEETCODE) | DSA · SQL · Interview Practice |
 
 ---
 
-## ◈ Engineering Standards
+# ◈ MY WORKING PRINCIPLES
 
 <table>
 <tr>
-<td align="center"><strong>01</strong><br>Reproducible</td>
-<td align="center"><strong>02</strong><br>Measured</td>
-<td align="center"><strong>03</strong><br>Explainable</td>
-<td align="center"><strong>04</strong><br>Deployable</td>
-</tr>
-</table>
-
-> I care about the full engineering path: **problem → data → model → system → user → feedback**.
-
----
-
-## ◈ A Few Principles
-
-<table>
-<tr>
-<td align="center"><strong>01</strong><br>Understand before optimizing.</td>
-<td align="center"><strong>02</strong><br>Measure before claiming.</td>
-<td align="center"><strong>03</strong><br>Explain what the model does.</td>
-<td align="center"><strong>04</strong><br>Build beyond the notebook.</td>
+<td align="center"><b>01</b><br>Understand before optimizing.</td>
+<td align="center"><b>02</b><br>Measure before claiming.</td>
+<td align="center"><b>03</b><br>Build beyond the notebook.</td>
+<td align="center"><b>04</b><br>Document what you ship.</td>
 </tr>
 </table>
 
@@ -436,15 +434,21 @@ Improving DSA, APIs, system design, code quality and production thinking.
 
 ---
 
-## ◈ Let's Build Something
+# ◈ LET’S CONNECT
 
-If you're working on **AI/ML, data science, software engineering, developer tools, intelligent applications, or an interesting technical problem**, I'd be happy to connect.
+I’m interested in opportunities and collaborations around **AI/ML, data science, intelligent applications, software engineering, developer tools, and technically ambitious projects**.
 
 <div align="center">
 
-<a href="https://github.com/RITESH2127"><img src="https://img.shields.io/badge/GITHUB-RITESH2127-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/ritesh-kumar-173154355"><img src="https://img.shields.io/badge/LINKEDIN-RITESH%20KUMAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:riteshkumarnew369@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/RITESH2127">
+  <img src="https://img.shields.io/badge/GitHub-RITESH2127-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/ritesh-kumar-173154355">
+  <img src="https://img.shields.io/badge/LinkedIn-Ritesh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:riteshkumarnew369@gmail.com">
+  <img src="https://img.shields.io/badge/Email-riteshkumarnew369%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 <br><br>
 
@@ -452,6 +456,11 @@ If you're working on **AI/ML, data science, software engineering, developer tool
 
 <br><br>
 
-<sub>Designed as a living technical profile — evolving with every project, experiment and lesson.</sub>
+<sub>© 2026 Ritesh Kumar · Built as a living engineering profile.</sub>
 
 </div>
+
+<!--
+  The best profile is never finished.
+  It keeps changing as the work gets better.
+-->
