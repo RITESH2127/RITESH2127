@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00E5FF"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
+<rect width="1100" height="300" rx="24" fill="#080B14" stroke="#26324A"/>
+<text x="40" y="40" fill="#F4F7FB" font-family="monospace" font-size="20" font-weight="700">FEATURED SYSTEMS</text>
+<text x="40" y="65" fill="#71809A" font-family="monospace" font-size="13">selected work / models → applications → engineering</text>
+<g font-family="monospace">
+<g fill="#10182A" stroke="#26324A"><rect x="35" y="95" width="325" height="155" rx="18"/><rect x="387" y="95" width="325" height="155" rx="18"/><rect x="739" y="95" width="326" height="155" rx="18"/></g>
+<text x="60" y="128" fill="#00E5FF" font-size="15">01 / BATTERY</text><text x="60" y="155" fill="#F4F7FB" font-size="19" font-weight="700">Battery Intelligence</text><text x="60" y="181" fill="#8B9AB5" font-size="13">SoH · RUL · XAI · deployment</text><text x="60" y="218" fill="#B7C2D9" font-size="12">XGBoost · LightGBM · SHAP</text>
+<text x="412" y="128" fill="#A78BFA" font-size="15">02 / NEURO AI</text><text x="412" y="155" fill="#F4F7FB" font-size="19" font-weight="700">ADHD Detection</text><text x="412" y="181" fill="#8B9AB5" font-size="13">EEG · fMRI · interpretability</text><text x="412" y="218" fill="#B7C2D9" font-size="12">Deep Learning · Grad-CAM · LIME</text>
+<text x="764" y="128" fill="#00E5FF" font-size="15">03 / REGRESSION</text><text x="764" y="155" fill="#F4F7FB" font-size="19" font-weight="700">House Price Tool</text><text x="764" y="181" fill="#8B9AB5" font-size="13">EDA · models · Streamlit</text><text x="764" y="218" fill="#B7C2D9" font-size="12">Linear · Ridge · Lasso · RF</text>
+</g>
+</svg>
